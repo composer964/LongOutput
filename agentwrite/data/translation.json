@@ -1,0 +1,6631 @@
+[
+  {
+    "start": 0.031,
+    "end": 2.957,
+    "text": "How the economic machine works in 30 minutes",
+    "speaker": "SPEAKER_00",
+    "translation": "30分钟看懂经济机器如何运行"
+  },
+  {
+    "start": 4.159,
+    "end": 5.301,
+    "text": "The economy works like",
+    "speaker": "SPEAKER_00",
+    "translation": "经济运行起来就像"
+  },
+  {
+    "start": 5.341,
+    "end": 6.524,
+    "text": "a simple machine,",
+    "speaker": "SPEAKER_00",
+    "translation": "一台简单的机器，"
+  },
+  {
+    "start": 7.185,
+    "end": 9.169,
+    "text": "but many people don't understand it",
+    "speaker": "SPEAKER_00",
+    "translation": "但很多人不明白，"
+  },
+  {
+    "start": 9.509,
+    "end": 11.634,
+    "text": "or they don't agree on how it works.",
+    "speaker": "SPEAKER_00",
+    "translation": "或对运行方式有分歧。"
+  },
+  {
+    "start": 11.654,
+    "end": 13.878,
+    "text": "And this has led to a lot of needless",
+    "speaker": "SPEAKER_00",
+    "translation": "这导致了许多不必要的"
+  },
+  {
+    "start": 14.098,
+    "end": 15.1,
+    "text": "economic suffering.",
+    "speaker": "SPEAKER_00",
+    "translation": "经济痛苦。"
+  },
+  {
+    "start": 16.343,
+    "end": 17.465,
+    "text": "I feel a deep sense",
+    "speaker": "SPEAKER_00",
+    "translation": "我深感"
+  },
+  {
+    "start": 17.525,
+    "end": 18.607,
+    "text": "of responsibility",
+    "speaker": "SPEAKER_00",
+    "translation": "有责任"
+  },
+  {
+    "start": 18.687,
+    "end": 19.89,
+    "text": "to share my simple",
+    "speaker": "SPEAKER_00",
+    "translation": "分享我的简单"
+  },
+  {
+    "start": 19.99,
+    "end": 22.174,
+    "text": "but practical economic template.",
+    "speaker": "SPEAKER_00",
+    "translation": "而实用的经济模型。"
+  },
+  {
+    "start": 23.96,
+    "end": 25.182,
+    "text": "Though it's unconventional,",
+    "speaker": "SPEAKER_00",
+    "translation": "虽然它不循规蹈矩，"
+  },
+  {
+    "start": 25.903,
+    "end": 27.525,
+    "text": "it has helped me to anticipate",
+    "speaker": "SPEAKER_00",
+    "translation": "但它帮助我预测"
+  },
+  {
+    "start": 27.625,
+    "end": 29.948,
+    "text": "and to sidestep the global financial crisis,",
+    "speaker": "SPEAKER_00",
+    "translation": "并规避了全球金融危机，"
+  },
+  {
+    "start": 30.308,
+    "end": 31.55,
+    "text": "and it has worked well for me",
+    "speaker": "SPEAKER_00",
+    "translation": "而且对我一直很管用，"
+  },
+  {
+    "start": 31.61,
+    "end": 32.771,
+    "text": "for over 30 years.",
+    "speaker": "SPEAKER_00",
+    "translation": "超过30年了。"
+  },
+  {
+    "start": 33.332,
+    "end": 33.993,
+    "text": "Let's begin.",
+    "speaker": "SPEAKER_00",
+    "translation": "我们开始吧。"
+  },
+  {
+    "start": 34.053,
+    "end": 35.535,
+    "text": "Though the economy",
+    "speaker": "SPEAKER_00",
+    "translation": "尽管经济"
+  },
+  {
+    "start": 35.595,
+    "end": 36.837,
+    "text": "might seem complex,",
+    "speaker": "SPEAKER_00",
+    "translation": "看似复杂，"
+  },
+  {
+    "start": 37.117,
+    "end": 39.42,
+    "text": "it works in a simple mechanical way.",
+    "speaker": "SPEAKER_00",
+    "translation": "但它的运行方式却很简单。"
+  },
+  {
+    "start": 39.76,
+    "end": 41.783,
+    "text": "It's made up of a few simple parts",
+    "speaker": "SPEAKER_00",
+    "translation": "它由几个简单部分组成，"
+  },
+  {
+    "start": 42.003,
+    "end": 43.766,
+    "text": "and a lot of simple transactions",
+    "speaker": "SPEAKER_00",
+    "translation": "还有许多简单的交易，"
+  },
+  {
+    "start": 43.966,
+    "end": 45.788,
+    "text": "that are repeated over and over again,",
+    "speaker": "SPEAKER_00",
+    "translation": "这些交易反复进行，"
+  },
+  {
+    "start": 45.808,
+    "end": 47.09,
+    "text": "a zillion times.",
+    "speaker": "SPEAKER_00",
+    "translation": "无数次。"
+  },
+  {
+    "start": 47.47,
+    "end": 48.592,
+    "text": "These transactions",
+    "speaker": "SPEAKER_00",
+    "translation": "这些交易"
+  },
+  {
+    "start": 48.812,
+    "end": 49.834,
+    "text": "are above all else,",
+    "speaker": "SPEAKER_00",
+    "translation": "最重要的是"
+  },
+  {
+    "start": 49.954,
+    "end": 51.756,
+    "text": "driven by human nature,",
+    "speaker": "SPEAKER_00",
+    "translation": "受人性驱动，"
+  },
+  {
+    "start": 51.736,
+    "end": 52.777,
+    "text": "and they create three",
+    "speaker": "SPEAKER_00",
+    "translation": "并形成推动经济的"
+  },
+  {
+    "start": 52.857,
+    "end": 54.78,
+    "text": "main forces that drive the economy:",
+    "speaker": "SPEAKER_00",
+    "translation": "三大主要动力："
+  },
+  {
+    "start": 55.901,
+    "end": 57.523,
+    "text": "Number one: productivity",
+    "speaker": "SPEAKER_00",
+    "translation": "第一：生产率"
+  },
+  {
+    "start": 57.583,
+    "end": 59.145,
+    "text": "growth, Number two:",
+    "speaker": "SPEAKER_00",
+    "translation": "增长，第二："
+  },
+  {
+    "start": 59.666,
+    "end": 61.167,
+    "text": "the short-term debt cycle,",
+    "speaker": "SPEAKER_00",
+    "translation": "短期债务周期，"
+  },
+  {
+    "start": 61.728,
+    "end": 64.251,
+    "text": "And number three, the long-term debt cycle.",
+    "speaker": "SPEAKER_00",
+    "translation": "第三：长期债务周期。"
+  },
+  {
+    "start": 64.952,
+    "end": 66.434,
+    "text": "We'll look at these three forces",
+    "speaker": "SPEAKER_00",
+    "translation": "我们将研究这三大动力，"
+  },
+  {
+    "start": 66.514,
+    "end": 68.376,
+    "text": "and how laying them on top of each other",
+    "speaker": "SPEAKER_00",
+    "translation": "以及它们如何叠加，"
+  },
+  {
+    "start": 68.536,
+    "end": 69.778,
+    "text": "creates a good template",
+    "speaker": "SPEAKER_00",
+    "translation": "形成一个很好的模板，"
+  },
+  {
+    "start": 69.858,
+    "end": 71.5,
+    "text": "for tracking economic movements",
+    "speaker": "SPEAKER_00",
+    "translation": "来追踪经济动向，"
+  },
+  {
+    "start": 71.58,
+    "end": 73.042,
+    "text": "and figuring out what's happening.",
+    "speaker": "SPEAKER_00",
+    "translation": "并弄清正在发生什么。"
+  },
+  {
+    "start": 73.102,
+    "end": 74.984,
+    "text": "Now, Let's start with",
+    "speaker": "SPEAKER_00",
+    "translation": "现在，我们从"
+  },
+  {
+    "start": 75.024,
+    "end": 76.706,
+    "text": "the simplest part of the economy:",
+    "speaker": "SPEAKER_00",
+    "translation": "经济最简单的部分开始："
+  },
+  {
+    "start": 77.307,
+    "end": 78.368,
+    "text": "transactions.",
+    "speaker": "SPEAKER_00",
+    "translation": "交易。"
+  },
+  {
+    "start": 79.867,
+    "end": 81.13,
+    "text": "An economy is simply",
+    "speaker": "SPEAKER_00",
+    "translation": "经济简单来说就是"
+  },
+  {
+    "start": 81.21,
+    "end": 83.416,
+    "text": "the sum of the transactions that make it up.",
+    "speaker": "SPEAKER_00",
+    "translation": "由构成它的所有交易的总和。"
+  },
+  {
+    "start": 84.098,
+    "end": 86.163,
+    "text": "And a transaction is a very simple thing.",
+    "speaker": "SPEAKER_00",
+    "translation": "一笔交易其实很简单。"
+  },
+  {
+    "start": 86.744,
+    "end": 88.429,
+    "text": "You make transactions all the time.",
+    "speaker": "SPEAKER_00",
+    "translation": "你随时都在进行交易。"
+  },
+  {
+    "start": 88.83,
+    "end": 90.173,
+    "text": "Every time you buy something,",
+    "speaker": "SPEAKER_00",
+    "translation": "每次你购买东西，"
+  },
+  {
+    "start": 90.213,
+    "end": 92.138,
+    "text": "you create a transaction.",
+    "speaker": "SPEAKER_00",
+    "translation": "你都会进行一笔交易。"
+  },
+  {
+    "start": 92.641,
+    "end": 93.783,
+    "text": "Each transaction",
+    "speaker": "SPEAKER_00",
+    "translation": "每笔交易"
+  },
+  {
+    "start": 93.923,
+    "end": 95.065,
+    "text": "consists of a buyer",
+    "speaker": "SPEAKER_00",
+    "translation": "都包含一个买方"
+  },
+  {
+    "start": 95.425,
+    "end": 96.487,
+    "text": "exchanging money",
+    "speaker": "SPEAKER_00",
+    "translation": "用金钱"
+  },
+  {
+    "start": 96.507,
+    "end": 98.51,
+    "text": "or credit with a seller",
+    "speaker": "SPEAKER_00",
+    "translation": "或信用与卖方交换"
+  },
+  {
+    "start": 98.69,
+    "end": 100.633,
+    "text": "for goods, services,",
+    "speaker": "SPEAKER_00",
+    "translation": "商品、服务"
+  },
+  {
+    "start": 101.054,
+    "end": 102.216,
+    "text": "or financial assets.",
+    "speaker": "SPEAKER_00",
+    "translation": "或金融资产。"
+  },
+  {
+    "start": 103.057,
+    "end": 104.92,
+    "text": "Credit spends just like money,",
+    "speaker": "SPEAKER_00",
+    "translation": "信用就像金钱一样，可以花出去，"
+  },
+  {
+    "start": 105.461,
+    "end": 107.504,
+    "text": "so adding together the money spent",
+    "speaker": "SPEAKER_00",
+    "translation": "所以把花掉的金钱"
+  },
+  {
+    "start": 107.784,
+    "end": 110.388,
+    "text": "and the amount of credit spent, you can know the.",
+    "speaker": "SPEAKER_00",
+    "translation": "和花掉的信用加起来，你就能知道。"
+  },
+  {
+    "start": 110.488,
+    "end": 111.45,
+    "text": "Total spending.",
+    "speaker": "SPEAKER_00",
+    "translation": "总支出。"
+  },
+  {
+    "start": 112.651,
+    "end": 115.376,
+    "text": "The total amount of spending drives the economy.",
+    "speaker": "SPEAKER_00",
+    "translation": "总支出推动着经济。"
+  },
+  {
+    "start": 116.197,
+    "end": 117.899,
+    "text": "If you divide the amount spent",
+    "speaker": "SPEAKER_00",
+    "translation": "如果你用支出金额除以"
+  },
+  {
+    "start": 118.56,
+    "end": 119.902,
+    "text": "by the quantity sold,",
+    "speaker": "SPEAKER_00",
+    "translation": "售出数量，"
+  },
+  {
+    "start": 120.223,
+    "end": 121.585,
+    "text": "you get the price.",
+    "speaker": "SPEAKER_00",
+    "translation": "就得到价格。"
+  },
+  {
+    "start": 121.97,
+    "end": 124.152,
+    "text": "And that's it, That's a transaction.",
+    "speaker": "SPEAKER_00",
+    "translation": "就是这样，这就是一笔交易。"
+  },
+  {
+    "start": 124.612,
+    "end": 125.653,
+    "text": "It's the building block",
+    "speaker": "SPEAKER_00",
+    "translation": "它是基石，"
+  },
+  {
+    "start": 125.693,
+    "end": 126.914,
+    "text": "of the economic machine.",
+    "speaker": "SPEAKER_00",
+    "translation": "构成经济机器的。"
+  },
+  {
+    "start": 127.875,
+    "end": 130.197,
+    "text": "All cycles and all forces in an economy",
+    "speaker": "SPEAKER_00",
+    "translation": "经济中的所有周期和所有力量"
+  },
+  {
+    "start": 130.217,
+    "end": 131.839,
+    "text": "are driven by transactions.",
+    "speaker": "SPEAKER_00",
+    "translation": "都由交易驱动。"
+  },
+  {
+    "start": 132.319,
+    "end": 134.561,
+    "text": "So if we can understand transactions,",
+    "speaker": "SPEAKER_00",
+    "translation": "所以如果我们能理解交易，"
+  },
+  {
+    "start": 134.761,
+    "end": 136.423,
+    "text": "we can understand the whole economy.",
+    "speaker": "SPEAKER_00",
+    "translation": "就能理解整个经济。"
+  },
+  {
+    "start": 137.464,
+    "end": 138.785,
+    "text": "A market consists of",
+    "speaker": "SPEAKER_00",
+    "translation": "一个市场由"
+  },
+  {
+    "start": 138.825,
+    "end": 140.586,
+    "text": "all the buyers and all the sellers",
+    "speaker": "SPEAKER_00",
+    "translation": "所有买方和卖方组成，"
+  },
+  {
+    "start": 140.767,
+    "end": 142.808,
+    "text": "making transactions for the same thing.",
+    "speaker": "SPEAKER_00",
+    "translation": "他们交易同一种商品。"
+  },
+  {
+    "start": 143.509,
+    "end": 144.77,
+    "text": "For example, there is a wheat",
+    "speaker": "SPEAKER_00",
+    "translation": "例如，有小麦"
+  },
+  {
+    "start": 144.83,
+    "end": 146.512,
+    "text": "market, a car market,",
+    "speaker": "SPEAKER_00",
+    "translation": "市场，汽车市场，"
+  },
+  {
+    "start": 146.732,
+    "end": 147.733,
+    "text": "a stock market,",
+    "speaker": "SPEAKER_00",
+    "translation": "股市，"
+  },
+  {
+    "start": 147.753,
+    "end": 149.134,
+    "text": "and markets for millions",
+    "speaker": "SPEAKER_00",
+    "translation": "以及数百万种"
+  },
+  {
+    "start": 149.194,
+    "end": 150.255,
+    "text": "of things.",
+    "speaker": "SPEAKER_00",
+    "translation": "物品的市场。"
+  },
+  {
+    "start": 150.64,
+    "end": 151.923,
+    "text": "An economy consists of",
+    "speaker": "SPEAKER_00",
+    "translation": "一个经济体由"
+  },
+  {
+    "start": 152.063,
+    "end": 154.508,
+    "text": "all of the transactions in all of its markets.",
+    "speaker": "SPEAKER_00",
+    "translation": "其所有市场中的所有交易组成。"
+  },
+  {
+    "start": 155.41,
+    "end": 157.495,
+    "text": "If you add up the total spending",
+    "speaker": "SPEAKER_00",
+    "translation": "如果你把总支出"
+  },
+  {
+    "start": 157.675,
+    "end": 159.319,
+    "text": "and the total quantity sold",
+    "speaker": "SPEAKER_00",
+    "translation": "和总销售量"
+  },
+  {
+    "start": 159.359,
+    "end": 160.802,
+    "text": "in all of the markets,",
+    "speaker": "SPEAKER_00",
+    "translation": "在所有市场中加起来，"
+  },
+  {
+    "start": 161.243,
+    "end": 162.626,
+    "text": "you have everything you need to know",
+    "speaker": "SPEAKER_00",
+    "translation": "你就掌握了你需要知道的一切，"
+  },
+  {
+    "start": 162.706,
+    "end": 164.069,
+    "text": "to understand the economy.",
+    "speaker": "SPEAKER_00",
+    "translation": "来理解经济。"
+  },
+  {
+    "start": 164.79,
+    "end": 166.033,
+    "text": "It's just that simple",
+    "speaker": "SPEAKER_00",
+    "translation": "就这么简单。"
+  },
+  {
+    "start": 167.026,
+    "end": 168.468,
+    "text": "People, businesses,",
+    "speaker": "SPEAKER_00",
+    "translation": "人们、企业，"
+  },
+  {
+    "start": 168.728,
+    "end": 169.83,
+    "text": "banks, and governments",
+    "speaker": "SPEAKER_00",
+    "translation": "银行和政府"
+  },
+  {
+    "start": 170.471,
+    "end": 172.233,
+    "text": "all engage in transactions.",
+    "speaker": "SPEAKER_00",
+    "translation": "都参与交易。"
+  },
+  {
+    "start": 172.273,
+    "end": 173.575,
+    "text": "The way I just described",
+    "speaker": "SPEAKER_00",
+    "translation": "就像我刚才说的，"
+  },
+  {
+    "start": 174.095,
+    "end": 175.617,
+    "text": "exchanging money and credit",
+    "speaker": "SPEAKER_00",
+    "translation": "用金钱和信贷"
+  },
+  {
+    "start": 176.058,
+    "end": 177.2,
+    "text": "for goods, services,",
+    "speaker": "SPEAKER_00",
+    "translation": "交换商品、服务"
+  },
+  {
+    "start": 177.3,
+    "end": 179.222,
+    "text": "and financial assets.",
+    "speaker": "SPEAKER_00",
+    "translation": "以及金融资产。"
+  },
+  {
+    "start": 179.242,
+    "end": 181.565,
+    "text": "The biggest buyer and seller is the government,",
+    "speaker": "SPEAKER_00",
+    "translation": "最大的买方和卖方是政府，"
+  },
+  {
+    "start": 181.685,
+    "end": 183.868,
+    "text": "which consists of two important parts:",
+    "speaker": "SPEAKER_00",
+    "translation": "它由两个重要部分组成："
+  },
+  {
+    "start": 184.489,
+    "end": 186.151,
+    "text": "a central government that collects",
+    "speaker": "SPEAKER_00",
+    "translation": "一个中央政府负责征收"
+  },
+  {
+    "start": 186.231,
+    "end": 187.613,
+    "text": "taxes and spends money,",
+    "speaker": "SPEAKER_00",
+    "translation": "税款和支出，"
+  },
+  {
+    "start": 187.633,
+    "end": 189.276,
+    "text": "and a central bank,",
+    "speaker": "SPEAKER_00",
+    "translation": "以及一个中央银行，"
+  },
+  {
+    "start": 189.656,
+    "end": 191.158,
+    "text": "which is different from other buyers",
+    "speaker": "SPEAKER_00",
+    "translation": "它与其他买卖方不同，"
+  },
+  {
+    "start": 191.258,
+    "end": 192.32,
+    "text": "and sellers because it",
+    "speaker": "SPEAKER_00",
+    "translation": "因为它"
+  },
+  {
+    "start": 192.4,
+    "end": 193.721,
+    "text": "controls the amount",
+    "speaker": "SPEAKER_00",
+    "translation": "控制着经济中"
+  },
+  {
+    "start": 193.882,
+    "end": 195.103,
+    "text": "of money and credit in",
+    "speaker": "SPEAKER_00",
+    "translation": "货币和信贷的"
+  },
+  {
+    "start": 195.143,
+    "end": 196.425,
+    "text": "the economy.",
+    "speaker": "SPEAKER_00",
+    "translation": "数量。"
+  },
+  {
+    "start": 196.675,
+    "end": 197.777,
+    "text": "It does this by",
+    "speaker": "SPEAKER_00",
+    "translation": "它通过"
+  },
+  {
+    "start": 197.817,
+    "end": 199.179,
+    "text": "influencing interest",
+    "speaker": "SPEAKER_00",
+    "translation": "影响利率"
+  },
+  {
+    "start": 199.199,
+    "end": 200.841,
+    "text": "rates and printing new money",
+    "speaker": "SPEAKER_00",
+    "translation": "和印发新货币来做到这点，"
+  },
+  {
+    "start": 202.203,
+    "end": 203.224,
+    "text": "For these reasons.",
+    "speaker": "SPEAKER_00",
+    "translation": "出于这些原因。"
+  },
+  {
+    "start": 203.385,
+    "end": 205.167,
+    "text": "As we'll see, the central bank",
+    "speaker": "SPEAKER_00",
+    "translation": "正如我们所见，央行"
+  },
+  {
+    "start": 205.247,
+    "end": 206.409,
+    "text": "is an important player",
+    "speaker": "SPEAKER_00",
+    "translation": "是一个重要的参与者"
+  },
+  {
+    "start": 206.569,
+    "end": 208.572,
+    "text": "in the flow of credit.",
+    "speaker": "SPEAKER_00",
+    "translation": "在信贷流动中。"
+  },
+  {
+    "start": 209.553,
+    "end": 211.356,
+    "text": "I want you to pay attention to credit.",
+    "speaker": "SPEAKER_00",
+    "translation": "我希望你关注信贷。"
+  },
+  {
+    "start": 212.037,
+    "end": 213.399,
+    "text": "Credit is the most important",
+    "speaker": "SPEAKER_00",
+    "translation": "信贷是最重要的"
+  },
+  {
+    "start": 213.459,
+    "end": 214.48,
+    "text": "part of the economy,",
+    "speaker": "SPEAKER_00",
+    "translation": "经济组成部分，"
+  },
+  {
+    "start": 214.52,
+    "end": 215.642,
+    "text": "and probably",
+    "speaker": "SPEAKER_00",
+    "translation": "可能也是"
+  },
+  {
+    "start": 215.682,
+    "end": 216.683,
+    "text": "the least understood.",
+    "speaker": "SPEAKER_00",
+    "translation": "最不被理解的。"
+  },
+  {
+    "start": 217.825,
+    "end": 219.007,
+    "text": "It's the most important part",
+    "speaker": "SPEAKER_00",
+    "translation": "它是最重要的部分，"
+  },
+  {
+    "start": 219.087,
+    "end": 220.229,
+    "text": "because it's the biggest",
+    "speaker": "SPEAKER_00",
+    "translation": "因为它最大，"
+  },
+  {
+    "start": 220.429,
+    "end": 221.991,
+    "text": "and most volatile part.",
+    "speaker": "SPEAKER_00",
+    "translation": "也是最不稳定的部分。"
+  },
+  {
+    "start": 223.169,
+    "end": 224.351,
+    "text": "Just like buyers",
+    "speaker": "SPEAKER_00",
+    "translation": "就像买方"
+  },
+  {
+    "start": 224.431,
+    "end": 225.794,
+    "text": "and sellers go to the market",
+    "speaker": "SPEAKER_00",
+    "translation": "和卖方去市场"
+  },
+  {
+    "start": 225.834,
+    "end": 227.116,
+    "text": "to make transactions,",
+    "speaker": "SPEAKER_00",
+    "translation": "进行交易一样，"
+  },
+  {
+    "start": 228.038,
+    "end": 229.841,
+    "text": "so do lenders and borrowers.",
+    "speaker": "SPEAKER_00",
+    "translation": "贷款人和借款人也如此。"
+  },
+  {
+    "start": 230.722,
+    "end": 231.764,
+    "text": "Lenders usually want to",
+    "speaker": "SPEAKER_00",
+    "translation": "贷款人通常希望"
+  },
+  {
+    "start": 231.804,
+    "end": 233.487,
+    "text": "make their money into more money,",
+    "speaker": "SPEAKER_00",
+    "translation": "让他们的钱生更多的钱，"
+  },
+  {
+    "start": 233.948,
+    "end": 235.331,
+    "text": "and borrowers usually want to",
+    "speaker": "SPEAKER_00",
+    "translation": "而借款人通常想"
+  },
+  {
+    "start": 235.391,
+    "end": 237.114,
+    "text": "buy something they can't afford,",
+    "speaker": "SPEAKER_00",
+    "translation": "购买他们买不起的，"
+  },
+  {
+    "start": 237.494,
+    "end": 238.897,
+    "text": "like a house or a car,",
+    "speaker": "SPEAKER_00",
+    "translation": "比如房子或汽车，"
+  },
+  {
+    "start": 239.478,
+    "end": 240.88,
+    "text": "or they want to invest in something",
+    "speaker": "SPEAKER_00",
+    "translation": "或者他们想投资一些东西，"
+  },
+  {
+    "start": 240.961,
+    "end": 242.243,
+    "text": "like starting a business.",
+    "speaker": "SPEAKER_00",
+    "translation": "比如创业。"
+  },
+  {
+    "start": 243.465,
+    "end": 245.188,
+    "text": "Credit can help both lenders",
+    "speaker": "SPEAKER_00",
+    "translation": "信贷可以帮助贷款人"
+  },
+  {
+    "start": 245.388,
+    "end": 247.472,
+    "text": "and borrowers get what they want.",
+    "speaker": "SPEAKER_00",
+    "translation": "和借款人得到他们想要的。"
+  },
+  {
+    "start": 248.397,
+    "end": 250.139,
+    "text": "Borrowers promise to repay",
+    "speaker": "SPEAKER_00",
+    "translation": "借款人承诺偿还"
+  },
+  {
+    "start": 250.179,
+    "end": 251.321,
+    "text": "the amount they borrow",
+    "speaker": "SPEAKER_00",
+    "translation": "他们借的金额"
+  },
+  {
+    "start": 251.621,
+    "end": 253.163,
+    "text": "called principal, plus",
+    "speaker": "SPEAKER_00",
+    "translation": "称为本金，外加"
+  },
+  {
+    "start": 253.223,
+    "end": 255.246,
+    "text": "an additional amount called interest.",
+    "speaker": "SPEAKER_00",
+    "translation": "一笔额外的金额，称为利息。"
+  },
+  {
+    "start": 256.227,
+    "end": 257.789,
+    "text": "When interest rates are high,",
+    "speaker": "SPEAKER_00",
+    "translation": "当利率很高时，"
+  },
+  {
+    "start": 258.17,
+    "end": 259.231,
+    "text": "there is less borrowing",
+    "speaker": "SPEAKER_00",
+    "translation": "借款就会减少，"
+  },
+  {
+    "start": 259.271,
+    "end": 260.433,
+    "text": "because it's expensive.",
+    "speaker": "SPEAKER_00",
+    "translation": "因为它很昂贵。"
+  },
+  {
+    "start": 261.034,
+    "end": 262.375,
+    "text": "When interest rates are low,",
+    "speaker": "SPEAKER_00",
+    "translation": "当利率低时，"
+  },
+  {
+    "start": 262.596,
+    "end": 264.578,
+    "text": "borrowing increases because it's cheaper.",
+    "speaker": "SPEAKER_00",
+    "translation": "借款就会增加，因为它更便宜。"
+  },
+  {
+    "start": 266.08,
+    "end": 268.103,
+    "text": "When borrowers promise to repay,",
+    "speaker": "SPEAKER_00",
+    "translation": "当借款人承诺还款，"
+  },
+  {
+    "start": 268.163,
+    "end": 269.705,
+    "text": "and lenders believe them,",
+    "speaker": "SPEAKER_00",
+    "translation": "并且贷款人相信他们时，"
+  },
+  {
+    "start": 270.105,
+    "end": 271.367,
+    "text": "credit is created.",
+    "speaker": "SPEAKER_00",
+    "translation": "信贷就产生了。"
+  },
+  {
+    "start": 272.292,
+    "end": 273.694,
+    "text": "Any two people can agree",
+    "speaker": "SPEAKER_00",
+    "translation": "任何两个人都可以同意"
+  },
+  {
+    "start": 273.734,
+    "end": 275.616,
+    "text": "to create credit out of thin air.",
+    "speaker": "SPEAKER_00",
+    "translation": "凭空创造信贷。"
+  },
+  {
+    "start": 276.397,
+    "end": 277.658,
+    "text": "That seems simple enough,",
+    "speaker": "SPEAKER_00",
+    "translation": "这看起来很简单，"
+  },
+  {
+    "start": 277.898,
+    "end": 279.08,
+    "text": "but credit is tricky",
+    "speaker": "SPEAKER_00",
+    "translation": "但信贷很复杂，"
+  },
+  {
+    "start": 279.26,
+    "end": 280.721,
+    "text": "because it has different names.",
+    "speaker": "SPEAKER_00",
+    "translation": "因为它有不同的名称。"
+  },
+  {
+    "start": 281.622,
+    "end": 283.284,
+    "text": "As soon as credit is created,",
+    "speaker": "SPEAKER_00",
+    "translation": "一旦信贷被创造出来，"
+  },
+  {
+    "start": 283.725,
+    "end": 285.347,
+    "text": "it immediately turns into debt.",
+    "speaker": "SPEAKER_00",
+    "translation": "它就立刻变成了债务。"
+  },
+  {
+    "start": 286.388,
+    "end": 288.59,
+    "text": "Debt is both an asset to the lender",
+    "speaker": "SPEAKER_00",
+    "translation": "债务对贷款人来说是资产，"
+  },
+  {
+    "start": 289.011,
+    "end": 290.672,
+    "text": "and a liability to the borrower.",
+    "speaker": "SPEAKER_00",
+    "translation": "对借款人来说是负债。"
+  },
+  {
+    "start": 291.974,
+    "end": 293.155,
+    "text": "In the future, when",
+    "speaker": "SPEAKER_00",
+    "translation": "将来，当"
+  },
+  {
+    "start": 293.195,
+    "end": 294.537,
+    "text": "the borrower repays",
+    "speaker": "SPEAKER_00",
+    "translation": "借款人还清"
+  },
+  {
+    "start": 294.597,
+    "end": 296.078,
+    "text": "the loan plus interest,",
+    "speaker": "SPEAKER_00",
+    "translation": "本金加利息时，"
+  },
+  {
+    "start": 296.459,
+    "end": 298.801,
+    "text": "the asset and the liability disappear,",
+    "speaker": "SPEAKER_00",
+    "translation": "资产和负债都消失了，"
+  },
+  {
+    "start": 299.242,
+    "end": 301.084,
+    "text": "and the transaction is settled.",
+    "speaker": "SPEAKER_00",
+    "translation": "交易也就完成了。"
+  },
+  {
+    "start": 302.11,
+    "end": 304.133,
+    "text": "So why is credit so important?",
+    "speaker": "SPEAKER_00",
+    "translation": "那么，信贷为什么如此重要呢？"
+  },
+  {
+    "start": 305.315,
+    "end": 307.659,
+    "text": "Because when a borrower receives credit,",
+    "speaker": "SPEAKER_00",
+    "translation": "因为当借款人获得信贷时，"
+  },
+  {
+    "start": 307.739,
+    "end": 309.682,
+    "text": "he is able to increase his spending.",
+    "speaker": "SPEAKER_00",
+    "translation": "他就能增加消费。"
+  },
+  {
+    "start": 310.463,
+    "end": 313.247,
+    "text": "And remember, spending drives the economy.",
+    "speaker": "SPEAKER_00",
+    "translation": "别忘了，支出是经济的动力。"
+  },
+  {
+    "start": 313.888,
+    "end": 315.951,
+    "text": "This is because one person's spending",
+    "speaker": "SPEAKER_00",
+    "translation": "这是因为一个人的支出，"
+  },
+  {
+    "start": 315.992,
+    "end": 317.454,
+    "text": "is another person's income.",
+    "speaker": "SPEAKER_00",
+    "translation": "是另一个人的收入。"
+  },
+  {
+    "start": 318.495,
+    "end": 320.819,
+    "text": "Think about it: Every dollar you spend,",
+    "speaker": "SPEAKER_00",
+    "translation": "想想看：你花的每一块钱，"
+  },
+  {
+    "start": 320.859,
+    "end": 322.021,
+    "text": "someone else earns,",
+    "speaker": "SPEAKER_00",
+    "translation": "别人就赚到了；"
+  },
+  {
+    "start": 322.582,
+    "end": 323.944,
+    "text": "And every dollar you earn",
+    "speaker": "SPEAKER_00",
+    "translation": "你赚的每一块钱，"
+  },
+  {
+    "start": 324.044,
+    "end": 325.166,
+    "text": "someone else has spent.",
+    "speaker": "SPEAKER_00",
+    "translation": "都是别人花出去的。"
+  },
+  {
+    "start": 326.127,
+    "end": 327.409,
+    "text": "So when you spend more,",
+    "speaker": "SPEAKER_00",
+    "translation": "所以，当你花得越多，"
+  },
+  {
+    "start": 327.83,
+    "end": 329.232,
+    "text": "someone else earns more.",
+    "speaker": "SPEAKER_00",
+    "translation": "别人就赚得越多。"
+  },
+  {
+    "start": 330.072,
+    "end": 331.854,
+    "text": "When someone's income rises,",
+    "speaker": "SPEAKER_00",
+    "translation": "当一个人的收入增加时，"
+  },
+  {
+    "start": 332.195,
+    "end": 333.196,
+    "text": "it makes lenders more",
+    "speaker": "SPEAKER_00",
+    "translation": "贷方会更"
+  },
+  {
+    "start": 333.276,
+    "end": 334.498,
+    "text": "willing to lend him money",
+    "speaker": "SPEAKER_00",
+    "translation": "愿意借钱给他，"
+  },
+  {
+    "start": 334.538,
+    "end": 335.639,
+    "text": "because now",
+    "speaker": "SPEAKER_00",
+    "translation": "因为现在"
+  },
+  {
+    "start": 335.679,
+    "end": 337.181,
+    "text": "he's more worthy of credit.",
+    "speaker": "SPEAKER_00",
+    "translation": "他的信用更好了。"
+  },
+  {
+    "start": 338.122,
+    "end": 339.664,
+    "text": "A credit-worthy borrower",
+    "speaker": "SPEAKER_00",
+    "translation": "有信用的借款人"
+  },
+  {
+    "start": 339.724,
+    "end": 340.746,
+    "text": "has two things:",
+    "speaker": "SPEAKER_00",
+    "translation": "有两样东西："
+  },
+  {
+    "start": 341.166,
+    "end": 342.448,
+    "text": "the ability to repay",
+    "speaker": "SPEAKER_00",
+    "translation": "偿还能力"
+  },
+  {
+    "start": 342.488,
+    "end": 343.67,
+    "text": "and collateral.",
+    "speaker": "SPEAKER_00",
+    "translation": "和抵押物。"
+  },
+  {
+    "start": 344.631,
+    "end": 345.752,
+    "text": "Having a lot of income",
+    "speaker": "SPEAKER_00",
+    "translation": "拥有较高的收入，"
+  },
+  {
+    "start": 345.812,
+    "end": 347.214,
+    "text": "in relation to his debt",
+    "speaker": "SPEAKER_00",
+    "translation": "相对于他的债务，"
+  },
+  {
+    "start": 347.294,
+    "end": 348.956,
+    "text": "gives him the ability to repay.",
+    "speaker": "SPEAKER_00",
+    "translation": "他就具备了偿还能力。"
+  },
+  {
+    "start": 349.016,
+    "end": 350.618,
+    "text": "In the event",
+    "speaker": "SPEAKER_00",
+    "translation": "万一"
+  },
+  {
+    "start": 350.659,
+    "end": 351.76,
+    "text": "that he can't repay,",
+    "speaker": "SPEAKER_00",
+    "translation": "他还不起钱，"
+  },
+  {
+    "start": 351.82,
+    "end": 353.542,
+    "text": "he has valuable assets",
+    "speaker": "SPEAKER_00",
+    "translation": "他有值钱的资产"
+  },
+  {
+    "start": 353.622,
+    "end": 355.785,
+    "text": "to use as collateral that can be sold.",
+    "speaker": "SPEAKER_00",
+    "translation": "可以作为抵押品出售。"
+  },
+  {
+    "start": 356.706,
+    "end": 358.449,
+    "text": "This makes lenders feel comfortable",
+    "speaker": "SPEAKER_00",
+    "translation": "这让贷方感到放心"
+  },
+  {
+    "start": 358.509,
+    "end": 359.59,
+    "text": "lending him money.",
+    "speaker": "SPEAKER_00",
+    "translation": "把钱借给他。"
+  },
+  {
+    "start": 360.43,
+    "end": 361.911,
+    "text": "So increased income",
+    "speaker": "SPEAKER_00",
+    "translation": "所以收入增加，"
+  },
+  {
+    "start": 361.952,
+    "end": 363.813,
+    "text": "allows increased borrowing,",
+    "speaker": "SPEAKER_00",
+    "translation": "会带来借贷增加，"
+  },
+  {
+    "start": 364.274,
+    "end": 365.895,
+    "text": "which allows increased spending.",
+    "speaker": "SPEAKER_00",
+    "translation": "进而带来支出增加。"
+  },
+  {
+    "start": 366.296,
+    "end": 368.278,
+    "text": "And since one person's spending",
+    "speaker": "SPEAKER_00",
+    "translation": "由于一个人的支出"
+  },
+  {
+    "start": 368.318,
+    "end": 369.839,
+    "text": "is another person's income,",
+    "speaker": "SPEAKER_00",
+    "translation": "是另一个人的收入，"
+  },
+  {
+    "start": 370.06,
+    "end": 371.241,
+    "text": "this leads to more",
+    "speaker": "SPEAKER_00",
+    "translation": "这会导致更多"
+  },
+  {
+    "start": 371.461,
+    "end": 372.502,
+    "text": "increased borrowing.",
+    "speaker": "SPEAKER_00",
+    "translation": "的借贷。"
+  },
+  {
+    "start": 372.682,
+    "end": 373.283,
+    "text": "And so on.",
+    "speaker": "SPEAKER_00",
+    "translation": "依此类推。"
+  },
+  {
+    "start": 373.763,
+    "end": 375.585,
+    "text": "This self-reinforcing pattern",
+    "speaker": "SPEAKER_00",
+    "translation": "这种自我强化的模式，"
+  },
+  {
+    "start": 375.825,
+    "end": 377.207,
+    "text": "leads to economic growth.",
+    "speaker": "SPEAKER_00",
+    "translation": "带来了经济增长。"
+  },
+  {
+    "start": 377.467,
+    "end": 379.669,
+    "text": "And is why we have cycles.",
+    "speaker": "SPEAKER_00",
+    "translation": "这也是我们有周期的原因。"
+  },
+  {
+    "start": 381.171,
+    "end": 382.252,
+    "text": "In a transaction.",
+    "speaker": "SPEAKER_00",
+    "translation": "在一笔交易中。"
+  },
+  {
+    "start": 382.532,
+    "end": 383.934,
+    "text": "You have to give something",
+    "speaker": "SPEAKER_00",
+    "translation": "你必须付出"
+  },
+  {
+    "start": 383.974,
+    "end": 385.435,
+    "text": "in order to get something,",
+    "speaker": "SPEAKER_00",
+    "translation": "才能得到，"
+  },
+  {
+    "start": 385.815,
+    "end": 387.257,
+    "text": "And how much you get depends on",
+    "speaker": "SPEAKER_00",
+    "translation": "你得到多少取决于"
+  },
+  {
+    "start": 387.317,
+    "end": 388.378,
+    "text": "how much you produce.",
+    "speaker": "SPEAKER_00",
+    "translation": "你生产了多少。"
+  },
+  {
+    "start": 389.911,
+    "end": 391.234,
+    "text": "Over time, we learn,",
+    "speaker": "SPEAKER_00",
+    "translation": "随着时间推移，我们不断学习，"
+  },
+  {
+    "start": 391.454,
+    "end": 394.52,
+    "text": "and that accumulated knowledge raises our living standards.",
+    "speaker": "SPEAKER_00",
+    "translation": "而这些累积的知识提升了我们的生活水平。"
+  },
+  {
+    "start": 394.821,
+    "end": 396.705,
+    "text": "We call this productivity growth.",
+    "speaker": "SPEAKER_00",
+    "translation": "我们称之为生产率增长。"
+  },
+  {
+    "start": 398.048,
+    "end": 399.21,
+    "text": "Those who are inventive",
+    "speaker": "SPEAKER_00",
+    "translation": "那些有创造力"
+  },
+  {
+    "start": 399.29,
+    "end": 400.513,
+    "text": "and hardworking raise",
+    "speaker": "SPEAKER_00",
+    "translation": "又勤奋的人，会提升"
+  },
+  {
+    "start": 400.553,
+    "end": 401.615,
+    "text": "their productivity,",
+    "speaker": "SPEAKER_00",
+    "translation": "他们的生产率，"
+  },
+  {
+    "start": 401.695,
+    "end": 403.419,
+    "text": "and their living standards faster",
+    "speaker": "SPEAKER_00",
+    "translation": "并更快地提高生活水平，"
+  },
+  {
+    "start": 403.84,
+    "end": 405.263,
+    "text": "than those who are complacent",
+    "speaker": "SPEAKER_00",
+    "translation": "比那些自满的"
+  },
+  {
+    "start": 405.323,
+    "end": 406.485,
+    "text": "and lazy.",
+    "speaker": "SPEAKER_00",
+    "translation": "和懒惰的人。"
+  },
+  {
+    "start": 406.82,
+    "end": 408.582,
+    "text": "But that isn't necessarily true.",
+    "speaker": "SPEAKER_00",
+    "translation": "但这不一定正确。"
+  },
+  {
+    "start": 408.642,
+    "end": 410.644,
+    "text": "Over the short run, Productivity",
+    "speaker": "SPEAKER_00",
+    "translation": "短期内，生产率"
+  },
+  {
+    "start": 410.704,
+    "end": 412.086,
+    "text": "matters most in the long run,",
+    "speaker": "SPEAKER_00",
+    "translation": "对长期发展最重要，"
+  },
+  {
+    "start": 412.386,
+    "end": 414.608,
+    "text": "but credit matters most in the short run.",
+    "speaker": "SPEAKER_00",
+    "translation": "但信贷对短期发展最重要。"
+  },
+  {
+    "start": 415.149,
+    "end": 416.591,
+    "text": "This is because productivity",
+    "speaker": "SPEAKER_00",
+    "translation": "这是因为生产率"
+  },
+  {
+    "start": 416.651,
+    "end": 418.212,
+    "text": "growth doesn't fluctuate much,",
+    "speaker": "SPEAKER_00",
+    "translation": "增长波动不大，"
+  },
+  {
+    "start": 418.513,
+    "end": 419.934,
+    "text": "so it's not a big driver",
+    "speaker": "SPEAKER_00",
+    "translation": "所以它不是经济波动的"
+  },
+  {
+    "start": 419.994,
+    "end": 421.115,
+    "text": "of economic swings.",
+    "speaker": "SPEAKER_00",
+    "translation": "主要驱动因素。"
+  },
+  {
+    "start": 421.856,
+    "end": 422.998,
+    "text": "Debt is because",
+    "speaker": "SPEAKER_00",
+    "translation": "债务之所以如此，"
+  },
+  {
+    "start": 423.058,
+    "end": 424.539,
+    "text": "it allows us to consume",
+    "speaker": "SPEAKER_00",
+    "translation": "是因为它让我们能消费"
+  },
+  {
+    "start": 424.599,
+    "end": 426.601,
+    "text": "more than we produce when we acquire it,",
+    "speaker": "SPEAKER_00",
+    "translation": "在我们获得它时超出我们生产的；"
+  },
+  {
+    "start": 427.002,
+    "end": 428.463,
+    "text": "and it forces us to consume",
+    "speaker": "SPEAKER_00",
+    "translation": "而它又迫使我们消费"
+  },
+  {
+    "start": 428.584,
+    "end": 429.625,
+    "text": "less than we produce",
+    "speaker": "SPEAKER_00",
+    "translation": "少于我们生产的，"
+  },
+  {
+    "start": 429.945,
+    "end": 431.747,
+    "text": "when we have to pay it back.",
+    "speaker": "SPEAKER_00",
+    "translation": "当我们不得不偿还时。"
+  },
+  {
+    "start": 432.132,
+    "end": 433.193,
+    "text": "Debt swings occur",
+    "speaker": "SPEAKER_00",
+    "translation": "债务波动发生"
+  },
+  {
+    "start": 433.233,
+    "end": 434.515,
+    "text": "in two big cycles-",
+    "speaker": "SPEAKER_00",
+    "translation": "在两个大周期中——"
+  },
+  {
+    "start": 435.516,
+    "end": 437.478,
+    "text": "one takes about five to eight years,",
+    "speaker": "SPEAKER_00",
+    "translation": "一个大约五到八年，"
+  },
+  {
+    "start": 437.578,
+    "end": 438.739,
+    "text": "and the other takes about",
+    "speaker": "SPEAKER_00",
+    "translation": "另一个大约"
+  },
+  {
+    "start": 438.759,
+    "end": 440.661,
+    "text": "75 to 100 years.",
+    "speaker": "SPEAKER_00",
+    "translation": "七十五到一百年。"
+  },
+  {
+    "start": 441.082,
+    "end": 442.883,
+    "text": "While most people feel the swings,",
+    "speaker": "SPEAKER_00",
+    "translation": "尽管大多数人感受到了波动，"
+  },
+  {
+    "start": 442.964,
+    "end": 445.026,
+    "text": "they typically don't see them as cycles",
+    "speaker": "SPEAKER_00",
+    "translation": "但他们通常不认为这是周期，"
+  },
+  {
+    "start": 445.206,
+    "end": 446.928,
+    "text": "because they see them too up close",
+    "speaker": "SPEAKER_00",
+    "translation": "因为他们看得太近，"
+  },
+  {
+    "start": 447.228,
+    "end": 449.25,
+    "text": "day by day, week by week.",
+    "speaker": "SPEAKER_00",
+    "translation": "日复一日，周复一周。"
+  },
+  {
+    "start": 449.751,
+    "end": 451.593,
+    "text": "In this chapter, we're going to step back",
+    "speaker": "SPEAKER_00",
+    "translation": "在本章中，我们将退后一步"
+  },
+  {
+    "start": 451.673,
+    "end": 453.635,
+    "text": "and look at these three big forces",
+    "speaker": "SPEAKER_00",
+    "translation": "看看这三大驱动力"
+  },
+  {
+    "start": 453.875,
+    "end": 454.956,
+    "text": "and how they interact",
+    "speaker": "SPEAKER_00",
+    "translation": "以及它们如何相互作用"
+  },
+  {
+    "start": 454.996,
+    "end": 456.638,
+    "text": "to make up our experiences.",
+    "speaker": "SPEAKER_00",
+    "translation": "构成了我们的经历。"
+  },
+  {
+    "start": 457.394,
+    "end": 458.656,
+    "text": "As mentioned, swings",
+    "speaker": "SPEAKER_00",
+    "translation": "如前所述，波动"
+  },
+  {
+    "start": 458.696,
+    "end": 460.418,
+    "text": "around the line are not due to",
+    "speaker": "SPEAKER_00",
+    "translation": "围绕这条线的，并非由于"
+  },
+  {
+    "start": 460.498,
+    "end": 461.7,
+    "text": "how much innovation",
+    "speaker": "SPEAKER_00",
+    "translation": "有多少创新"
+  },
+  {
+    "start": 461.78,
+    "end": 462.901,
+    "text": "or hard work there is.",
+    "speaker": "SPEAKER_00",
+    "translation": "或努力工作。"
+  },
+  {
+    "start": 463.522,
+    "end": 464.623,
+    "text": "They're primarily due",
+    "speaker": "SPEAKER_00",
+    "translation": "这主要取决于"
+  },
+  {
+    "start": 464.724,
+    "end": 466.025,
+    "text": "to how much credit there is.",
+    "speaker": "SPEAKER_00",
+    "translation": "有多少信贷。"
+  },
+  {
+    "start": 466.947,
+    "end": 467.868,
+    "text": "Let's for a second.",
+    "speaker": "SPEAKER_00",
+    "translation": "我们暂停一下。"
+  },
+  {
+    "start": 468.068,
+    "end": 470.011,
+    "text": "Imagine an economy without credit.",
+    "speaker": "SPEAKER_00",
+    "translation": "想象一个没有信贷的经济体。"
+  },
+  {
+    "start": 470.571,
+    "end": 472.133,
+    "text": "In this economy, the only way",
+    "speaker": "SPEAKER_00",
+    "translation": "在这样的经济体里，唯一的方法"
+  },
+  {
+    "start": 472.213,
+    "end": 473.595,
+    "text": "I can increase my spending",
+    "speaker": "SPEAKER_00",
+    "translation": "我才能增加支出，"
+  },
+  {
+    "start": 474.016,
+    "end": 475.338,
+    "text": "is to increase my income,",
+    "speaker": "SPEAKER_00",
+    "translation": "就是提高我的收入，"
+  },
+  {
+    "start": 475.878,
+    "end": 476.88,
+    "text": "which requires me to",
+    "speaker": "SPEAKER_00",
+    "translation": "而这需要我"
+  },
+  {
+    "start": 476.92,
+    "end": 479.263,
+    "text": "be more productive and do more work.",
+    "speaker": "SPEAKER_00",
+    "translation": "提高生产力，并做更多工作。"
+  },
+  {
+    "start": 479.964,
+    "end": 481.405,
+    "text": "Increased productivity",
+    "speaker": "SPEAKER_00",
+    "translation": "生产力的提高，"
+  },
+  {
+    "start": 481.606,
+    "end": 483.368,
+    "text": "is the only way for growth.",
+    "speaker": "SPEAKER_00",
+    "translation": "是增长的唯一途径。"
+  },
+  {
+    "start": 483.348,
+    "end": 484.47,
+    "text": "Since my spending",
+    "speaker": "SPEAKER_00",
+    "translation": "因为我的支出"
+  },
+  {
+    "start": 484.55,
+    "end": 485.912,
+    "text": "is another person's income,",
+    "speaker": "SPEAKER_00",
+    "translation": "是别人的收入，"
+  },
+  {
+    "start": 486.313,
+    "end": 488.016,
+    "text": "the economy grows every time",
+    "speaker": "SPEAKER_00",
+    "translation": "所以每当我或其他人"
+  },
+  {
+    "start": 488.317,
+    "end": 490.36,
+    "text": "I or anyone else is more productive.",
+    "speaker": "SPEAKER_00",
+    "translation": "提高生产力时，经济就会增长。"
+  },
+  {
+    "start": 490.801,
+    "end": 493.466,
+    "text": "If we follow the transactions and play this out,",
+    "speaker": "SPEAKER_00",
+    "translation": "如果我们跟踪这些交易并推演下去，"
+  },
+  {
+    "start": 493.586,
+    "end": 494.668,
+    "text": "we see a progression",
+    "speaker": "SPEAKER_00",
+    "translation": "我们会看到一个发展过程，"
+  },
+  {
+    "start": 494.948,
+    "end": 496.831,
+    "text": "like the productivity growth line.",
+    "speaker": "SPEAKER_00",
+    "translation": "就像生产率增长线一样。"
+  },
+  {
+    "start": 497.392,
+    "end": 499.035,
+    "text": "But because we borrow,",
+    "speaker": "SPEAKER_00",
+    "translation": "但因为我们借贷，"
+  },
+  {
+    "start": 499.396,
+    "end": 500.598,
+    "text": "we have cycles.",
+    "speaker": "SPEAKER_00",
+    "translation": "所以就有了周期。"
+  },
+  {
+    "start": 501.139,
+    "end": 502.882,
+    "text": "This isn't due to any laws",
+    "speaker": "SPEAKER_00",
+    "translation": "这并非因为任何法律"
+  },
+  {
+    "start": 502.982,
+    "end": 504.004,
+    "text": "or regulations.",
+    "speaker": "SPEAKER_00",
+    "translation": "或法规。"
+  },
+  {
+    "start": 504.244,
+    "end": 505.887,
+    "text": "It's due to human nature",
+    "speaker": "SPEAKER_00",
+    "translation": "这源于人性"
+  },
+  {
+    "start": 506.107,
+    "end": 508.191,
+    "text": "and the way that credit works.",
+    "speaker": "SPEAKER_00",
+    "translation": "以及信贷的运作方式。"
+  },
+  {
+    "start": 508.171,
+    "end": 509.172,
+    "text": "Think of borrowing",
+    "speaker": "SPEAKER_00",
+    "translation": "把借贷"
+  },
+  {
+    "start": 509.493,
+    "end": 510.594,
+    "text": "as simply a way of",
+    "speaker": "SPEAKER_00",
+    "translation": "简单地看作是"
+  },
+  {
+    "start": 510.735,
+    "end": 512.157,
+    "text": "pulling spending forward.",
+    "speaker": "SPEAKER_00",
+    "translation": "把支出提前的方式。"
+  },
+  {
+    "start": 512.958,
+    "end": 514.18,
+    "text": "In order to buy something",
+    "speaker": "SPEAKER_00",
+    "translation": "为了买一件"
+  },
+  {
+    "start": 514.2,
+    "end": 515.281,
+    "text": "you can't afford,",
+    "speaker": "SPEAKER_00",
+    "translation": "你负担不起的东西，"
+  },
+  {
+    "start": 515.341,
+    "end": 517.324,
+    "text": "you need to spend more than you make.",
+    "speaker": "SPEAKER_00",
+    "translation": "你需要花得比挣得多。"
+  },
+  {
+    "start": 518.025,
+    "end": 519.427,
+    "text": "To do this, you essentially",
+    "speaker": "SPEAKER_00",
+    "translation": "要做到这一点，你本质上"
+  },
+  {
+    "start": 519.487,
+    "end": 521.39,
+    "text": "need to borrow from your future self.",
+    "speaker": "SPEAKER_00",
+    "translation": "需要向未来的自己借钱。"
+  },
+  {
+    "start": 522.011,
+    "end": 523.213,
+    "text": "In doing so, you create",
+    "speaker": "SPEAKER_00",
+    "translation": "你这样做，你就设定了"
+  },
+  {
+    "start": 523.273,
+    "end": 524.414,
+    "text": "a time in the future",
+    "speaker": "SPEAKER_00",
+    "translation": "未来某个时间，"
+  },
+  {
+    "start": 524.735,
+    "end": 525.776,
+    "text": "that you need to spend",
+    "speaker": "SPEAKER_00",
+    "translation": "你需要支出"
+  },
+  {
+    "start": 525.957,
+    "end": 527.098,
+    "text": "less than you make",
+    "speaker": "SPEAKER_00",
+    "translation": "少于你的收入，"
+  },
+  {
+    "start": 527.439,
+    "end": 528.981,
+    "text": "in order to pay it back.",
+    "speaker": "SPEAKER_00",
+    "translation": "才能偿还。"
+  },
+  {
+    "start": 528.961,
+    "end": 531.104,
+    "text": "It very quickly resembles a cycle.",
+    "speaker": "SPEAKER_00",
+    "translation": "它很快就形成了一个周期。"
+  },
+  {
+    "start": 531.605,
+    "end": 533.788,
+    "text": "Basically, any time you borrow,",
+    "speaker": "SPEAKER_00",
+    "translation": "基本上，每当你借贷，"
+  },
+  {
+    "start": 534.008,
+    "end": 535.07,
+    "text": "you create a cycle.",
+    "speaker": "SPEAKER_00",
+    "translation": "你就会创造一个周期。"
+  },
+  {
+    "start": 535.511,
+    "end": 537.393,
+    "text": "This is as true for an individual,",
+    "speaker": "SPEAKER_00",
+    "translation": "这对于个人来说是如此，"
+  },
+  {
+    "start": 537.413,
+    "end": 538.795,
+    "text": "as it is for the economy.",
+    "speaker": "SPEAKER_00",
+    "translation": "对经济亦是如此。"
+  },
+  {
+    "start": 539.657,
+    "end": 540.778,
+    "text": "This is why understanding",
+    "speaker": "SPEAKER_00",
+    "translation": "这就是为什么理解"
+  },
+  {
+    "start": 540.858,
+    "end": 542.22,
+    "text": "credit is so important",
+    "speaker": "SPEAKER_00",
+    "translation": "信贷如此重要，"
+  },
+  {
+    "start": 542.32,
+    "end": 543.362,
+    "text": "because it sets",
+    "speaker": "SPEAKER_00",
+    "translation": "因为它开启了"
+  },
+  {
+    "start": 543.462,
+    "end": 545.305,
+    "text": "into motion a mechanical,",
+    "speaker": "SPEAKER_00",
+    "translation": "一系列机械的、"
+  },
+  {
+    "start": 545.465,
+    "end": 546.707,
+    "text": "predictable series",
+    "speaker": "SPEAKER_00",
+    "translation": "可预测的"
+  },
+  {
+    "start": 546.767,
+    "end": 548.65,
+    "text": "of events that will happen in the future.",
+    "speaker": "SPEAKER_00",
+    "translation": "未来事件。"
+  },
+  {
+    "start": 549.471,
+    "end": 551.494,
+    "text": "This makes credit different from money.",
+    "speaker": "SPEAKER_00",
+    "translation": "这使得信贷不同于货币。"
+  },
+  {
+    "start": 552.175,
+    "end": 555.019,
+    "text": "Money is what you settle transactions with.",
+    "speaker": "SPEAKER_00",
+    "translation": "货币是你用来结算交易的东西。"
+  },
+  {
+    "start": 554.999,
+    "end": 556.4,
+    "text": "When you buy a beer from",
+    "speaker": "SPEAKER_00",
+    "translation": "当你向"
+  },
+  {
+    "start": 556.48,
+    "end": 558.182,
+    "text": "a bartender with cash,",
+    "speaker": "SPEAKER_00",
+    "translation": "调酒师用现金买啤酒时，"
+  },
+  {
+    "start": 558.202,
+    "end": 560.324,
+    "text": "the transaction is settled immediately.",
+    "speaker": "SPEAKER_00",
+    "translation": "交易会立即结算。"
+  },
+  {
+    "start": 560.864,
+    "end": 562.726,
+    "text": "But when you buy a beer with credit,",
+    "speaker": "SPEAKER_00",
+    "translation": "但当你用信贷买啤酒时，"
+  },
+  {
+    "start": 563.026,
+    "end": 564.467,
+    "text": "it's like starting a bar tab.",
+    "speaker": "SPEAKER_00",
+    "translation": "就像是开了个赊账单。"
+  },
+  {
+    "start": 565.028,
+    "end": 567.31,
+    "text": "You're saying you promise to pay in the future.",
+    "speaker": "SPEAKER_00",
+    "translation": "你是在说你承诺将来会付款。"
+  },
+  {
+    "start": 568.01,
+    "end": 569.672,
+    "text": "Together, you and the bartender",
+    "speaker": "SPEAKER_00",
+    "translation": "你和调酒师一起，"
+  },
+  {
+    "start": 569.772,
+    "end": 572.174,
+    "text": "create an asset and a liability.",
+    "speaker": "SPEAKER_00",
+    "translation": "就创造了一项资产和一项负债。"
+  },
+  {
+    "start": 572.574,
+    "end": 575.097,
+    "text": "You just created credit out of thin air.",
+    "speaker": "SPEAKER_00",
+    "translation": "你刚刚凭空创造了信贷。"
+  },
+  {
+    "start": 576.278,
+    "end": 578.339,
+    "text": "It's not until you pay the bar tab.",
+    "speaker": "SPEAKER_00",
+    "translation": "直到你付清赊账单。"
+  },
+  {
+    "start": 578.4,
+    "end": 579.741,
+    "text": "Later that the asset",
+    "speaker": "SPEAKER_00",
+    "translation": "之后资产"
+  },
+  {
+    "start": 579.781,
+    "end": 581.342,
+    "text": "and the liability disappear,",
+    "speaker": "SPEAKER_00",
+    "translation": "和负债才会消失，"
+  },
+  {
+    "start": 581.642,
+    "end": 582.723,
+    "text": "the debt goes away,",
+    "speaker": "SPEAKER_00",
+    "translation": "债务才会消除，"
+  },
+  {
+    "start": 583.024,
+    "end": 584.685,
+    "text": "and the transaction is settled.",
+    "speaker": "SPEAKER_00",
+    "translation": "交易才算完成。"
+  },
+  {
+    "start": 585.965,
+    "end": 587.086,
+    "text": "The reality is that",
+    "speaker": "SPEAKER_00",
+    "translation": "现实是，"
+  },
+  {
+    "start": 587.226,
+    "end": 589.008,
+    "text": "most of what people call money",
+    "speaker": "SPEAKER_00",
+    "translation": "大多数人所说的钱"
+  },
+  {
+    "start": 589.048,
+    "end": 590.389,
+    "text": "is actually credit.",
+    "speaker": "SPEAKER_00",
+    "translation": "其实是信贷。"
+  },
+  {
+    "start": 591.09,
+    "end": 593.052,
+    "text": "The total amount of credit in the United",
+    "speaker": "SPEAKER_00",
+    "translation": "美国的信贷总量"
+  },
+  {
+    "start": 593.092,
+    "end": 594.834,
+    "text": "States is about $50 trillion,",
+    "speaker": "SPEAKER_00",
+    "translation": "约为50万亿美元，"
+  },
+  {
+    "start": 595.034,
+    "end": 596.596,
+    "text": "and the total amount",
+    "speaker": "SPEAKER_00",
+    "translation": "而货币总量"
+  },
+  {
+    "start": 596.656,
+    "end": 599.038,
+    "text": "of money is only about $3 trillion.",
+    "speaker": "SPEAKER_00",
+    "translation": "只有约3万亿美元。"
+  },
+  {
+    "start": 599.799,
+    "end": 602.161,
+    "text": "Remember, in an economy without credit,",
+    "speaker": "SPEAKER_00",
+    "translation": "记住，在一个没有信贷的经济体中，"
+  },
+  {
+    "start": 602.381,
+    "end": 605.124,
+    "text": "the only way to increase your spending is to produce more.",
+    "speaker": "SPEAKER_00",
+    "translation": "增加支出的唯一方法就是生产更多。"
+  },
+  {
+    "start": 605.505,
+    "end": 607.426,
+    "text": "But in an economy with credit,",
+    "speaker": "SPEAKER_00",
+    "translation": "但在一个有信贷的经济体中，"
+  },
+  {
+    "start": 607.587,
+    "end": 609.549,
+    "text": "you can also increase your spending",
+    "speaker": "SPEAKER_00",
+    "translation": "你也可以增加支出"
+  },
+  {
+    "start": 609.609,
+    "end": 611.01,
+    "text": "by borrowing.",
+    "speaker": "SPEAKER_00",
+    "translation": "通过借贷。"
+  },
+  {
+    "start": 611.058,
+    "end": 613.322,
+    "text": "As a result, an economy with credit",
+    "speaker": "SPEAKER_00",
+    "translation": "因此，一个有信贷的经济体"
+  },
+  {
+    "start": 613.382,
+    "end": 614.444,
+    "text": "has more spending",
+    "speaker": "SPEAKER_00",
+    "translation": "支出会更多，"
+  },
+  {
+    "start": 614.484,
+    "end": 616.488,
+    "text": "and allows incomes to rise faster",
+    "speaker": "SPEAKER_00",
+    "translation": "并且能让收入增长更快，"
+  },
+  {
+    "start": 616.528,
+    "end": 618.231,
+    "text": "than productivity over the short run,",
+    "speaker": "SPEAKER_00",
+    "translation": "在短期内快于生产率，"
+  },
+  {
+    "start": 618.572,
+    "end": 619.854,
+    "text": "but not over the long run.",
+    "speaker": "SPEAKER_00",
+    "translation": "但长期则不然。"
+  },
+  {
+    "start": 620.215,
+    "end": 621.257,
+    "text": "Now don't get me wrong.",
+    "speaker": "SPEAKER_00",
+    "translation": "请别误会。"
+  },
+  {
+    "start": 621.818,
+    "end": 623.882,
+    "text": "Credit isn't necessarily something bad",
+    "speaker": "SPEAKER_00",
+    "translation": "信贷不一定是坏事，"
+  },
+  {
+    "start": 623.942,
+    "end": 625.245,
+    "text": "that just causes cycles.",
+    "speaker": "SPEAKER_00",
+    "translation": "它只会引发周期。"
+  },
+  {
+    "start": 625.786,
+    "end": 626.848,
+    "text": "It's bad when",
+    "speaker": "SPEAKER_00",
+    "translation": "信贷的坏处在于，"
+  },
+  {
+    "start": 626.928,
+    "end": 628.771,
+    "text": "it finances overconsumption",
+    "speaker": "SPEAKER_00",
+    "translation": "它资助了过度消费，"
+  },
+  {
+    "start": 628.811,
+    "end": 630.855,
+    "text": "that can't be paid back.",
+    "speaker": "SPEAKER_00",
+    "translation": "且无法偿还。"
+  },
+  {
+    "start": 630.835,
+    "end": 633.158,
+    "text": "However, it's good when it efficiently",
+    "speaker": "SPEAKER_00",
+    "translation": "但如果它能有效率地"
+  },
+  {
+    "start": 633.298,
+    "end": 634.479,
+    "text": "allocates resources",
+    "speaker": "SPEAKER_00",
+    "translation": "分配资源"
+  },
+  {
+    "start": 634.66,
+    "end": 635.781,
+    "text": "and produces income",
+    "speaker": "SPEAKER_00",
+    "translation": "且创造收入"
+  },
+  {
+    "start": 636.161,
+    "end": 637.423,
+    "text": "so you can pay back the debt.",
+    "speaker": "SPEAKER_00",
+    "translation": "让你能偿还债务，那就是好事。"
+  },
+  {
+    "start": 637.763,
+    "end": 639.365,
+    "text": "For example, if you borrow money",
+    "speaker": "SPEAKER_00",
+    "translation": "例如，如果你借钱"
+  },
+  {
+    "start": 639.405,
+    "end": 640.727,
+    "text": "to buy a big TV,",
+    "speaker": "SPEAKER_00",
+    "translation": "去买一台大电视，"
+  },
+  {
+    "start": 641.327,
+    "end": 642.829,
+    "text": "it doesn't generate income for you",
+    "speaker": "SPEAKER_00",
+    "translation": "这并不会为你创造收入"
+  },
+  {
+    "start": 642.849,
+    "end": 643.89,
+    "text": "to pay back the debt.",
+    "speaker": "SPEAKER_00",
+    "translation": "来偿还债务。"
+  },
+  {
+    "start": 644.611,
+    "end": 645.993,
+    "text": "But if you borrow money to",
+    "speaker": "SPEAKER_00",
+    "translation": "但如果你借钱，"
+  },
+  {
+    "start": 646.433,
+    "end": 647.635,
+    "text": "say buy a tractor,",
+    "speaker": "SPEAKER_00",
+    "translation": "比如说买一台拖拉机，"
+  },
+  {
+    "start": 648.456,
+    "end": 649.657,
+    "text": "and that tractor lets you",
+    "speaker": "SPEAKER_00",
+    "translation": "而这台拖拉机能让你"
+  },
+  {
+    "start": 649.717,
+    "end": 651.459,
+    "text": "harvest more crops and earn more money,",
+    "speaker": "SPEAKER_00",
+    "translation": "收获更多庄稼，赚更多钱，"
+  },
+  {
+    "start": 651.52,
+    "end": 652.521,
+    "text": "then",
+    "speaker": "SPEAKER_00",
+    "translation": "那么"
+  },
+  {
+    "start": 652.541,
+    "end": 653.762,
+    "text": "you can pay back your debt",
+    "speaker": "SPEAKER_00",
+    "translation": "你就能还清债务"
+  },
+  {
+    "start": 653.882,
+    "end": 655.324,
+    "text": "and improve your living standards.",
+    "speaker": "SPEAKER_00",
+    "translation": "并提高生活水平。"
+  },
+  {
+    "start": 656.485,
+    "end": 658.027,
+    "text": "In an economy with credit,",
+    "speaker": "SPEAKER_00",
+    "translation": "在一个有信贷的经济体中，"
+  },
+  {
+    "start": 658.127,
+    "end": 659.91,
+    "text": "we can follow the transactions",
+    "speaker": "SPEAKER_00",
+    "translation": "我们可以追踪这些交易，"
+  },
+  {
+    "start": 660.01,
+    "end": 661.773,
+    "text": "and see how credit creates growth.",
+    "speaker": "SPEAKER_00",
+    "translation": "并看到信贷是如何创造增长的。"
+  },
+  {
+    "start": 662.834,
+    "end": 663.856,
+    "text": "Let me give you an example.",
+    "speaker": "SPEAKER_00",
+    "translation": "我来举个例子。"
+  },
+  {
+    "start": 664.517,
+    "end": 667.962,
+    "text": "Suppose you earn $100,,000 a year and have no debt.",
+    "speaker": "SPEAKER_00",
+    "translation": "假设你一年赚10万美元，并且没有债务。"
+  },
+  {
+    "start": 668.463,
+    "end": 669.685,
+    "text": "You are credit worthy enough",
+    "speaker": "SPEAKER_00",
+    "translation": "你信用良好，足以"
+  },
+  {
+    "start": 669.765,
+    "end": 672.609,
+    "text": "to borrow $10,000 say on a credit card.",
+    "speaker": "SPEAKER_00",
+    "translation": "借1万美元，比如用信用卡。"
+  },
+  {
+    "start": 673.15,
+    "end": 674.332,
+    "text": "So you can spend $110,000,",
+    "speaker": "SPEAKER_00",
+    "translation": "所以你可以花11万美元，"
+  },
+  {
+    "start": 674.532,
+    "end": 676.054,
+    "text": "even though",
+    "speaker": "SPEAKER_00",
+    "translation": "即便"
+  },
+  {
+    "start": 676.114,
+    "end": 677.256,
+    "text": "you only earn $100,,000.",
+    "speaker": "SPEAKER_00",
+    "translation": "你只赚10万美元。"
+  },
+  {
+    "start": 677.476,
+    "end": 679.9,
+    "text": "Since your spending",
+    "speaker": "SPEAKER_00",
+    "translation": "因为你的支出"
+  },
+  {
+    "start": 680.0,
+    "end": 681.382,
+    "text": "is another person's income,",
+    "speaker": "SPEAKER_00",
+    "translation": "是别人的收入，"
+  },
+  {
+    "start": 681.883,
+    "end": 684.687,
+    "text": "someone is earning $110,,000.",
+    "speaker": "SPEAKER_00",
+    "translation": "所以有人赚了11万美元。"
+  },
+  {
+    "start": 685.088,
+    "end": 686.81,
+    "text": "The person earning $110,000",
+    "speaker": "SPEAKER_00",
+    "translation": "那个赚11万美元的人"
+  },
+  {
+    "start": 688.152,
+    "end": 690.135,
+    "text": "with no debt can borrow $11,000",
+    "speaker": "SPEAKER_00",
+    "translation": "没有任何债务，可以借1.1万美元，"
+  },
+  {
+    "start": 690.435,
+    "end": 691.536,
+    "text": "so he",
+    "speaker": "SPEAKER_00",
+    "translation": "这样他"
+  },
+  {
+    "start": 691.597,
+    "end": 692.798,
+    "text": "can spend $121,000,",
+    "speaker": "SPEAKER_00",
+    "translation": "就可以花12.1万美元，"
+  },
+  {
+    "start": 693.058,
+    "end": 695.261,
+    "text": "even though",
+    "speaker": "SPEAKER_00",
+    "translation": "即使"
+  },
+  {
+    "start": 695.281,
+    "end": 697.024,
+    "text": "he has only earned $110,000.",
+    "speaker": "SPEAKER_00",
+    "translation": "他只赚了11万美元。"
+  },
+  {
+    "start": 698.646,
+    "end": 700.949,
+    "text": "His spending is another person's income,",
+    "speaker": "SPEAKER_00",
+    "translation": "他的支出是别人的收入，"
+  },
+  {
+    "start": 701.129,
+    "end": 702.991,
+    "text": "and by following the transactions,",
+    "speaker": "SPEAKER_00",
+    "translation": "顺着这些交易，"
+  },
+  {
+    "start": 703.312,
+    "end": 704.373,
+    "text": "we can begin to see",
+    "speaker": "SPEAKER_00",
+    "translation": "我们就能开始明白"
+  },
+  {
+    "start": 704.433,
+    "end": 705.715,
+    "text": "how this process works",
+    "speaker": "SPEAKER_00",
+    "translation": "这个过程是如何运作的，"
+  },
+  {
+    "start": 706.075,
+    "end": 708.058,
+    "text": "in a self-reinforcing pattern.",
+    "speaker": "SPEAKER_00",
+    "translation": "形成一个自我强化的模式。"
+  },
+  {
+    "start": 708.038,
+    "end": 710.084,
+    "text": "But remember, borrowing",
+    "speaker": "SPEAKER_00",
+    "translation": "但请记住，借贷"
+  },
+  {
+    "start": 710.344,
+    "end": 711.427,
+    "text": "creates cycles,",
+    "speaker": "SPEAKER_00",
+    "translation": "会产生周期，"
+  },
+  {
+    "start": 711.748,
+    "end": 713.353,
+    "text": "and if the cycle goes up,",
+    "speaker": "SPEAKER_00",
+    "translation": "如果周期上升，"
+  },
+  {
+    "start": 713.533,
+    "end": 715.358,
+    "text": "it eventually needs to come down.",
+    "speaker": "SPEAKER_00",
+    "translation": "最终也需要下降。"
+  },
+  {
+    "start": 716.0,
+    "end": 717.224,
+    "text": "This leads us into",
+    "speaker": "SPEAKER_00",
+    "translation": "这引出了"
+  },
+  {
+    "start": 717.244,
+    "end": 719.55,
+    "text": "the short-term debt cycle.",
+    "speaker": "SPEAKER_00",
+    "translation": "短期债务周期。"
+  },
+  {
+    "start": 720.813,
+    "end": 722.956,
+    "text": "As economic activity increases,",
+    "speaker": "SPEAKER_00",
+    "translation": "随着经济活动的增加，"
+  },
+  {
+    "start": 723.016,
+    "end": 724.257,
+    "text": "we see an expansion-",
+    "speaker": "SPEAKER_00",
+    "translation": "我们看到了扩张——"
+  },
+  {
+    "start": 724.618,
+    "end": 726.74,
+    "text": "the first phase of the short-term debt cycle.",
+    "speaker": "SPEAKER_00",
+    "translation": "短期债务周期的第一阶段。"
+  },
+  {
+    "start": 727.341,
+    "end": 729.023,
+    "text": "Spending continues to increase,",
+    "speaker": "SPEAKER_00",
+    "translation": "支出持续增加，"
+  },
+  {
+    "start": 729.103,
+    "end": 730.525,
+    "text": "and prices start to rise.",
+    "speaker": "SPEAKER_00",
+    "translation": "物价开始上涨。"
+  },
+  {
+    "start": 731.105,
+    "end": 732.747,
+    "text": "This happens because the increase",
+    "speaker": "SPEAKER_00",
+    "translation": "这之所以发生，"
+  },
+  {
+    "start": 732.828,
+    "end": 734.55,
+    "text": "in spending is fueled by credit,",
+    "speaker": "SPEAKER_00",
+    "translation": "是由于支出的增长是由信贷推动的，"
+  },
+  {
+    "start": 734.93,
+    "end": 737.313,
+    "text": "which can be created instantly out of thin air.",
+    "speaker": "SPEAKER_00",
+    "translation": "而信贷可以凭空即时创造。"
+  },
+  {
+    "start": 738.214,
+    "end": 739.576,
+    "text": "When the amount of spending",
+    "speaker": "SPEAKER_00",
+    "translation": "当支出金额"
+  },
+  {
+    "start": 739.636,
+    "end": 741.017,
+    "text": "and incomes grow faster",
+    "speaker": "SPEAKER_00",
+    "translation": "和收入增速快于"
+  },
+  {
+    "start": 741.057,
+    "end": 743.861,
+    "text": "than the production of goods, prices rise.",
+    "speaker": "SPEAKER_00",
+    "translation": "商品生产时，物价就会上涨。"
+  },
+  {
+    "start": 744.742,
+    "end": 745.823,
+    "text": "When prices rise,",
+    "speaker": "SPEAKER_00",
+    "translation": "当物价上涨时，"
+  },
+  {
+    "start": 746.424,
+    "end": 748.947,
+    "text": "we call this inflation.",
+    "speaker": "SPEAKER_00",
+    "translation": "我们称之为通货膨胀。"
+  },
+  {
+    "start": 749.737,
+    "end": 750.938,
+    "text": "The central bank doesn't",
+    "speaker": "SPEAKER_00",
+    "translation": "中央银行不"
+  },
+  {
+    "start": 751.018,
+    "end": 752.38,
+    "text": "want too much inflation",
+    "speaker": "SPEAKER_00",
+    "translation": "希望通胀过高，"
+  },
+  {
+    "start": 752.64,
+    "end": 754.062,
+    "text": "because it causes problems.",
+    "speaker": "SPEAKER_00",
+    "translation": "因为它会带来问题。"
+  },
+  {
+    "start": 755.123,
+    "end": 756.384,
+    "text": "Seeing prices rise,",
+    "speaker": "SPEAKER_00",
+    "translation": "看到物价上涨，"
+  },
+  {
+    "start": 756.824,
+    "end": 758.666,
+    "text": "it raises interest rates.",
+    "speaker": "SPEAKER_00",
+    "translation": "它会提高利率。"
+  },
+  {
+    "start": 758.686,
+    "end": 760.008,
+    "text": "With higher interest rates,",
+    "speaker": "SPEAKER_00",
+    "translation": "利率升高，"
+  },
+  {
+    "start": 760.388,
+    "end": 762.751,
+    "text": "fewer people can afford to borrow money,",
+    "speaker": "SPEAKER_00",
+    "translation": "能借钱的人变少，"
+  },
+  {
+    "start": 762.771,
+    "end": 765.374,
+    "text": "and the cost of existing debts rises.",
+    "speaker": "SPEAKER_00",
+    "translation": "现有债务的成本也上升。"
+  },
+  {
+    "start": 766.234,
+    "end": 767.316,
+    "text": "Think about this as the",
+    "speaker": "SPEAKER_00",
+    "translation": "你可以把这想象成"
+  },
+  {
+    "start": 767.416,
+    "end": 768.457,
+    "text": "monthly payments on",
+    "speaker": "SPEAKER_00",
+    "translation": "你信用卡每月的"
+  },
+  {
+    "start": 768.497,
+    "end": 769.898,
+    "text": "your credit card going up",
+    "speaker": "SPEAKER_00",
+    "translation": "还款额增加了。"
+  },
+  {
+    "start": 771.2,
+    "end": 772.601,
+    "text": "Because people borrow less",
+    "speaker": "SPEAKER_00",
+    "translation": "由于人们借贷减少，"
+  },
+  {
+    "start": 772.821,
+    "end": 774.663,
+    "text": "and have higher debt repayments",
+    "speaker": "SPEAKER_00",
+    "translation": "债务还款额增加，"
+  },
+  {
+    "start": 774.683,
+    "end": 776.886,
+    "text": "they have less money left over to spend.",
+    "speaker": "SPEAKER_00",
+    "translation": "他们剩余用于支出的钱就变少了。"
+  },
+  {
+    "start": 777.506,
+    "end": 779.068,
+    "text": "So spending slows.",
+    "speaker": "SPEAKER_00",
+    "translation": "所以支出放缓。"
+  },
+  {
+    "start": 779.335,
+    "end": 781.118,
+    "text": "And since one person's spending",
+    "speaker": "SPEAKER_00",
+    "translation": "由于一个人的支出"
+  },
+  {
+    "start": 781.198,
+    "end": 782.6,
+    "text": "is another person's income,",
+    "speaker": "SPEAKER_00",
+    "translation": "是另一个人的收入，"
+  },
+  {
+    "start": 783.601,
+    "end": 785.184,
+    "text": "incomes drop,",
+    "speaker": "SPEAKER_00",
+    "translation": "所以收入下降，"
+  },
+  {
+    "start": 785.204,
+    "end": 786.466,
+    "text": "and so on, and so forth.",
+    "speaker": "SPEAKER_00",
+    "translation": "以此类推。"
+  },
+  {
+    "start": 787.567,
+    "end": 788.99,
+    "text": "When people spend less,",
+    "speaker": "SPEAKER_00",
+    "translation": "当人们支出减少时，"
+  },
+  {
+    "start": 789.29,
+    "end": 790.332,
+    "text": "prices go down.",
+    "speaker": "SPEAKER_00",
+    "translation": "物价就会下降。"
+  },
+  {
+    "start": 790.952,
+    "end": 792.214,
+    "text": "We call this deflation.",
+    "speaker": "SPEAKER_00",
+    "translation": "我们称之为通货紧缩。"
+  },
+  {
+    "start": 793.256,
+    "end": 795.399,
+    "text": "Economic activity decreases,",
+    "speaker": "SPEAKER_00",
+    "translation": "经济活动减少，"
+  },
+  {
+    "start": 795.7,
+    "end": 797.202,
+    "text": "and we have a recession.",
+    "speaker": "SPEAKER_00",
+    "translation": "我们就会陷入衰退。"
+  },
+  {
+    "start": 797.863,
+    "end": 799.886,
+    "text": "If the recession becomes too severe",
+    "speaker": "SPEAKER_00",
+    "translation": "如果衰退变得过于严重，"
+  },
+  {
+    "start": 799.926,
+    "end": 802.149,
+    "text": "and inflation is no longer a problem,",
+    "speaker": "SPEAKER_00",
+    "translation": "通胀不再是问题，"
+  },
+  {
+    "start": 802.69,
+    "end": 805.494,
+    "text": "the central bank will lower interest rates to cause",
+    "speaker": "SPEAKER_00",
+    "translation": "中央银行就会降低利率，以促使"
+  },
+  {
+    "start": 805.715,
+    "end": 807.317,
+    "text": "everything to pick up again.",
+    "speaker": "SPEAKER_00",
+    "translation": "一切重新好转。"
+  },
+  {
+    "start": 807.888,
+    "end": 809.353,
+    "text": "With low interest rates,",
+    "speaker": "SPEAKER_00",
+    "translation": "随着利率降低，"
+  },
+  {
+    "start": 809.715,
+    "end": 811.221,
+    "text": "debt repayments are reduced,",
+    "speaker": "SPEAKER_00",
+    "translation": "债务还款减少，"
+  },
+  {
+    "start": 811.461,
+    "end": 813.389,
+    "text": "and borrowing and spending pick up.",
+    "speaker": "SPEAKER_00",
+    "translation": "借贷和支出就会回升。"
+  },
+  {
+    "start": 813.85,
+    "end": 815.637,
+    "text": "And we see another expansion.",
+    "speaker": "SPEAKER_00",
+    "translation": "我们又看到了一次扩张。"
+  },
+  {
+    "start": 816.41,
+    "end": 819.275,
+    "text": "As you can see, the economy works like a machine.",
+    "speaker": "SPEAKER_00",
+    "translation": "如你所见，经济就像一台机器一样运转。"
+  },
+  {
+    "start": 820.036,
+    "end": 821.479,
+    "text": "In the short-term debt cycle,",
+    "speaker": "SPEAKER_00",
+    "translation": "在短期债务周期中，"
+  },
+  {
+    "start": 821.519,
+    "end": 823.342,
+    "text": "spending is constrained only by",
+    "speaker": "SPEAKER_00",
+    "translation": "支出仅受限于"
+  },
+  {
+    "start": 823.402,
+    "end": 824.785,
+    "text": "the willingness of lenders",
+    "speaker": "SPEAKER_00",
+    "translation": "贷方和借方"
+  },
+  {
+    "start": 824.845,
+    "end": 827.048,
+    "text": "and borrowers to provide and receive credit.",
+    "speaker": "SPEAKER_00",
+    "translation": "提供和接受信贷的意愿。"
+  },
+  {
+    "start": 827.629,
+    "end": 829.933,
+    "text": "When credit is easily available,",
+    "speaker": "SPEAKER_00",
+    "translation": "当信贷容易获得时，"
+  },
+  {
+    "start": 830.254,
+    "end": 831.937,
+    "text": "there's an economic expansion.",
+    "speaker": "SPEAKER_00",
+    "translation": "经济就会扩张。"
+  },
+  {
+    "start": 832.578,
+    "end": 835.944,
+    "text": "When credit isn't easily available, there's a recession.",
+    "speaker": "SPEAKER_00",
+    "translation": "当信贷不容易获得时，就会出现衰退。"
+  },
+  {
+    "start": 836.545,
+    "end": 837.767,
+    "text": "And note that this cycle",
+    "speaker": "SPEAKER_00",
+    "translation": "请注意，这个周期"
+  },
+  {
+    "start": 837.847,
+    "end": 839.37,
+    "text": "is controlled primarily by",
+    "speaker": "SPEAKER_00",
+    "translation": "主要由"
+  },
+  {
+    "start": 839.41,
+    "end": 840.612,
+    "text": "the central bank.",
+    "speaker": "SPEAKER_00",
+    "translation": "中央银行控制。"
+  },
+  {
+    "start": 841.216,
+    "end": 842.658,
+    "text": "The short-term debt cycle",
+    "speaker": "SPEAKER_00",
+    "translation": "短期债务周期"
+  },
+  {
+    "start": 842.698,
+    "end": 844.882,
+    "text": "typically lasts five to eight years",
+    "speaker": "SPEAKER_00",
+    "translation": "通常持续五到八年"
+  },
+  {
+    "start": 845.202,
+    "end": 846.885,
+    "text": "and happens over and over again",
+    "speaker": "SPEAKER_00",
+    "translation": "并反复出现"
+  },
+  {
+    "start": 846.925,
+    "end": 848.628,
+    "text": "for decades.",
+    "speaker": "SPEAKER_00",
+    "translation": "持续数十年。"
+  },
+  {
+    "start": 848.648,
+    "end": 850.351,
+    "text": "But notice that the bottom",
+    "speaker": "SPEAKER_00",
+    "translation": "但请注意，每个周期的底部"
+  },
+  {
+    "start": 850.411,
+    "end": 852.254,
+    "text": "and top of each cycle finish",
+    "speaker": "SPEAKER_00",
+    "translation": "和顶部收尾时，"
+  },
+  {
+    "start": 852.755,
+    "end": 854.818,
+    "text": "with more growth than the previous cycle.",
+    "speaker": "SPEAKER_00",
+    "translation": "增长都比上一个周期更多。"
+  },
+  {
+    "start": 855.339,
+    "end": 856.501,
+    "text": "And with more debt.",
+    "speaker": "SPEAKER_00",
+    "translation": "而且债务更多。"
+  },
+  {
+    "start": 857.422,
+    "end": 857.783,
+    "text": "Why?",
+    "speaker": "SPEAKER_00",
+    "translation": "为什么？"
+  },
+  {
+    "start": 857.823,
+    "end": 860.347,
+    "text": "Because people push it,",
+    "speaker": "SPEAKER_00",
+    "translation": "因为人们会推动它，"
+  },
+  {
+    "start": 860.908,
+    "end": 861.989,
+    "text": "They have an inclination to",
+    "speaker": "SPEAKER_00",
+    "translation": "他们倾向于"
+  },
+  {
+    "start": 862.09,
+    "end": 863.352,
+    "text": "borrow and spend more",
+    "speaker": "SPEAKER_00",
+    "translation": "借贷和消费更多，"
+  },
+  {
+    "start": 863.632,
+    "end": 865.195,
+    "text": "instead of paying back debt.",
+    "speaker": "SPEAKER_00",
+    "translation": "而不是偿还债务。"
+  },
+  {
+    "start": 866.036,
+    "end": 867.358,
+    "text": "It's human nature.",
+    "speaker": "SPEAKER_00",
+    "translation": "这是人性。"
+  },
+  {
+    "start": 868.317,
+    "end": 870.881,
+    "text": "Because of this, over long periods of time,",
+    "speaker": "SPEAKER_00",
+    "translation": "因此，长期来看，"
+  },
+  {
+    "start": 871.162,
+    "end": 872.985,
+    "text": "debts rise faster than incomes,",
+    "speaker": "SPEAKER_00",
+    "translation": "债务增速会快于收入，"
+  },
+  {
+    "start": 873.806,
+    "end": 875.949,
+    "text": "creating the long-term debt cycle.",
+    "speaker": "SPEAKER_00",
+    "translation": "这便形成了长期债务周期。"
+  },
+  {
+    "start": 878.153,
+    "end": 880.096,
+    "text": "Despite people becoming more indebted,",
+    "speaker": "SPEAKER_00",
+    "translation": "尽管人们负债越来越多，"
+  },
+  {
+    "start": 880.357,
+    "end": 882.901,
+    "text": "lenders even more freely extend credit.",
+    "speaker": "SPEAKER_00",
+    "translation": "贷款人却更自由地发放信贷。"
+  },
+  {
+    "start": 884.523,
+    "end": 884.904,
+    "text": "Why?",
+    "speaker": "SPEAKER_00",
+    "translation": "为什么？"
+  },
+  {
+    "start": 884.944,
+    "end": 886.767,
+    "text": "Because",
+    "speaker": "SPEAKER_00",
+    "translation": "因为"
+  },
+  {
+    "start": 886.847,
+    "end": 888.71,
+    "text": "everyone thinks things are going great.",
+    "speaker": "SPEAKER_00",
+    "translation": "每个人都觉得一切都很好。"
+  },
+  {
+    "start": 889.491,
+    "end": 890.673,
+    "text": "People are just focused on",
+    "speaker": "SPEAKER_00",
+    "translation": "人们只关注"
+  },
+  {
+    "start": 890.733,
+    "end": 892.056,
+    "text": "what's been happening lately",
+    "speaker": "SPEAKER_00",
+    "translation": "最近发生的一切，"
+  },
+  {
+    "start": 893.157,
+    "end": 894.78,
+    "text": "And what's been happening lately.",
+    "speaker": "SPEAKER_00",
+    "translation": "只关注最近发生的一切。"
+  },
+  {
+    "start": 895.891,
+    "end": 897.535,
+    "text": "Incomes have been rising,",
+    "speaker": "SPEAKER_00",
+    "translation": "收入一直在增加，"
+  },
+  {
+    "start": 897.875,
+    "end": 899.76,
+    "text": "Asset values are going up.",
+    "speaker": "SPEAKER_00",
+    "translation": "资产价值不断攀升。"
+  },
+  {
+    "start": 899.78,
+    "end": 902.666,
+    "text": "The stock market roars, It's a boom.",
+    "speaker": "SPEAKER_00",
+    "translation": "股市高歌猛进，一片繁荣。"
+  },
+  {
+    "start": 903.007,
+    "end": 904.45,
+    "text": "It pays to buy goods,",
+    "speaker": "SPEAKER_00",
+    "translation": "购买商品，"
+  },
+  {
+    "start": 904.751,
+    "end": 906.635,
+    "text": "services, and financial assets",
+    "speaker": "SPEAKER_00",
+    "translation": "服务和金融资产，"
+  },
+  {
+    "start": 907.076,
+    "end": 908.319,
+    "text": "with borrowed money.",
+    "speaker": "SPEAKER_00",
+    "translation": "用借来的钱是很划算的。"
+  },
+  {
+    "start": 908.9,
+    "end": 910.423,
+    "text": "When people do a lot of that,",
+    "speaker": "SPEAKER_00",
+    "translation": "当人们大量这样做时，"
+  },
+  {
+    "start": 910.604,
+    "end": 912.027,
+    "text": "we call it a bubble.",
+    "speaker": "SPEAKER_00",
+    "translation": "我们就称之为泡沫。"
+  },
+  {
+    "start": 912.58,
+    "end": 914.383,
+    "text": "So even though debts have been growing,",
+    "speaker": "SPEAKER_00",
+    "translation": "尽管债务不断增长，"
+  },
+  {
+    "start": 914.423,
+    "end": 915.524,
+    "text": "incomes",
+    "speaker": "SPEAKER_00",
+    "translation": "收入"
+  },
+  {
+    "start": 915.564,
+    "end": 918.008,
+    "text": "have been growing nearly as fast to offset them.",
+    "speaker": "SPEAKER_00",
+    "translation": "也以接近的速度增长以抵消它们。"
+  },
+  {
+    "start": 918.509,
+    "end": 919.891,
+    "text": "Let's call the ratio",
+    "speaker": "SPEAKER_00",
+    "translation": "我们把债务与收入的比率"
+  },
+  {
+    "start": 919.991,
+    "end": 921.894,
+    "text": "of debt to income the debt burden.",
+    "speaker": "SPEAKER_00",
+    "translation": "称为债务负担。"
+  },
+  {
+    "start": 922.735,
+    "end": 923.857,
+    "text": "So long as incomes",
+    "speaker": "SPEAKER_00",
+    "translation": "只要收入"
+  },
+  {
+    "start": 923.937,
+    "end": 924.999,
+    "text": "continue to rise,",
+    "speaker": "SPEAKER_00",
+    "translation": "持续增长，"
+  },
+  {
+    "start": 925.339,
+    "end": 927.122,
+    "text": "the debt burden stays manageable.",
+    "speaker": "SPEAKER_00",
+    "translation": "债务负担就能保持可控。"
+  },
+  {
+    "start": 927.703,
+    "end": 930.347,
+    "text": "At the same time, asset values soar.",
+    "speaker": "SPEAKER_00",
+    "translation": "与此同时，资产价值飙升。"
+  },
+  {
+    "start": 931.148,
+    "end": 932.57,
+    "text": "People borrow huge amounts",
+    "speaker": "SPEAKER_00",
+    "translation": "人们借贷巨额资金"
+  },
+  {
+    "start": 932.63,
+    "end": 933.892,
+    "text": "of money to buy assets",
+    "speaker": "SPEAKER_00",
+    "translation": "购买资产"
+  },
+  {
+    "start": 934.012,
+    "end": 935.394,
+    "text": "as investments,",
+    "speaker": "SPEAKER_00",
+    "translation": "作为投资，"
+  },
+  {
+    "start": 935.414,
+    "end": 937.537,
+    "text": "causing their prices to rise even higher.",
+    "speaker": "SPEAKER_00",
+    "translation": "导致其价格进一步上涨。"
+  },
+  {
+    "start": 938.158,
+    "end": 939.921,
+    "text": "People feel wealthy.",
+    "speaker": "SPEAKER_00",
+    "translation": "人们感觉自己很富有。"
+  },
+  {
+    "start": 940.222,
+    "end": 942.687,
+    "text": "So even with the accumulation of lots",
+    "speaker": "SPEAKER_00",
+    "translation": "即使积累了大量"
+  },
+  {
+    "start": 942.767,
+    "end": 944.591,
+    "text": "of debt rising incomes",
+    "speaker": "SPEAKER_00",
+    "translation": "债务，不断增长的收入"
+  },
+  {
+    "start": 944.712,
+    "end": 946.135,
+    "text": "and asset values help",
+    "speaker": "SPEAKER_00",
+    "translation": "和资产价值，也能帮助"
+  },
+  {
+    "start": 946.195,
+    "end": 948.78,
+    "text": "borrowers remain creditworthy for a long time.",
+    "speaker": "SPEAKER_00",
+    "translation": "借款人长期保持信用。"
+  },
+  {
+    "start": 949.782,
+    "end": 950.845,
+    "text": "But this obviously",
+    "speaker": "SPEAKER_00",
+    "translation": "但这显然"
+  },
+  {
+    "start": 950.925,
+    "end": 953.911,
+    "text": "cannot continue forever, And it doesn't.",
+    "speaker": "SPEAKER_00",
+    "translation": "不可能永远持续下去，事实也的确如此。"
+  },
+  {
+    "start": 954.773,
+    "end": 956.016,
+    "text": "Over decades, debt",
+    "speaker": "SPEAKER_00",
+    "translation": "几十年来，债务"
+  },
+  {
+    "start": 956.076,
+    "end": 957.639,
+    "text": "burdens slowly increase,",
+    "speaker": "SPEAKER_00",
+    "translation": "负担缓慢增加，"
+  },
+  {
+    "start": 957.739,
+    "end": 959.403,
+    "text": "creating larger and larger",
+    "speaker": "SPEAKER_00",
+    "translation": "导致越来越大"
+  },
+  {
+    "start": 959.483,
+    "end": 960.846,
+    "text": "debt repayments.",
+    "speaker": "SPEAKER_00",
+    "translation": "的债务偿还额。"
+  },
+  {
+    "start": 961.18,
+    "end": 962.602,
+    "text": "At some point, debt",
+    "speaker": "SPEAKER_00",
+    "translation": "在某个时点，债务"
+  },
+  {
+    "start": 962.642,
+    "end": 963.904,
+    "text": "repayments start growing",
+    "speaker": "SPEAKER_00",
+    "translation": "偿还额开始增长"
+  },
+  {
+    "start": 964.064,
+    "end": 965.226,
+    "text": "faster than incomes,",
+    "speaker": "SPEAKER_00",
+    "translation": "快于收入，"
+  },
+  {
+    "start": 965.727,
+    "end": 967.91,
+    "text": "forcing people to cut back on their spending.",
+    "speaker": "SPEAKER_00",
+    "translation": "迫使人们削减开支。"
+  },
+  {
+    "start": 968.471,
+    "end": 970.253,
+    "text": "And since one person's spending",
+    "speaker": "SPEAKER_00",
+    "translation": "鉴于一个人的支出"
+  },
+  {
+    "start": 970.514,
+    "end": 971.856,
+    "text": "is another person's income,",
+    "speaker": "SPEAKER_00",
+    "translation": "是另一个人的收入，"
+  },
+  {
+    "start": 972.577,
+    "end": 974.019,
+    "text": "incomes begin to go down,",
+    "speaker": "SPEAKER_00",
+    "translation": "收入开始下降，"
+  },
+  {
+    "start": 974.58,
+    "end": 976.562,
+    "text": "which makes people less creditworthy,",
+    "speaker": "SPEAKER_00",
+    "translation": "这会降低人们的信用度，"
+  },
+  {
+    "start": 977.003,
+    "end": 978.605,
+    "text": "causing borrowing to go down.",
+    "speaker": "SPEAKER_00",
+    "translation": "导致借贷减少。"
+  },
+  {
+    "start": 979.667,
+    "end": 981.79,
+    "text": "Debt repayments continue to rise,",
+    "speaker": "SPEAKER_00",
+    "translation": "债务偿还额持续上升，"
+  },
+  {
+    "start": 982.171,
+    "end": 983.192,
+    "text": "which makes spending",
+    "speaker": "SPEAKER_00",
+    "translation": "导致支出"
+  },
+  {
+    "start": 983.252,
+    "end": 984.314,
+    "text": "drop even further,",
+    "speaker": "SPEAKER_00",
+    "translation": "进一步下降，"
+  },
+  {
+    "start": 985.135,
+    "end": 987.238,
+    "text": "And the cycle reverses itself.",
+    "speaker": "SPEAKER_00",
+    "translation": "于是周期逆转。"
+  },
+  {
+    "start": 988.788,
+    "end": 990.77,
+    "text": "This is the long-term debt peak.",
+    "speaker": "SPEAKER_00",
+    "translation": "这就是长期债务的顶峰。"
+  },
+  {
+    "start": 991.731,
+    "end": 994.074,
+    "text": "Debt burdens have simply become too big",
+    "speaker": "SPEAKER_00",
+    "translation": "债务负担变得过于沉重，"
+  },
+  {
+    "start": 995.576,
+    "end": 996.657,
+    "text": "For the United States,",
+    "speaker": "SPEAKER_00",
+    "translation": "美国、欧洲，"
+  },
+  {
+    "start": 996.857,
+    "end": 998.72,
+    "text": "Europe and much of the rest of the world.",
+    "speaker": "SPEAKER_00",
+    "translation": "以及世界大部分地区都如此。"
+  },
+  {
+    "start": 998.78,
+    "end": 1000.201,
+    "text": "This happened in 2008.",
+    "speaker": "SPEAKER_00",
+    "translation": "这在2008年发生了。"
+  },
+  {
+    "start": 1000.281,
+    "end": 1002.984,
+    "text": "It happened for the same reason.",
+    "speaker": "SPEAKER_00",
+    "translation": "发生的原因都一样。"
+  },
+  {
+    "start": 1003.065,
+    "end": 1004.726,
+    "text": "It happened in Japan in 1989",
+    "speaker": "SPEAKER_00",
+    "translation": "这在日本1989年发生过，"
+  },
+  {
+    "start": 1004.827,
+    "end": 1006.489,
+    "text": "and in the United",
+    "speaker": "SPEAKER_00",
+    "translation": "在美国"
+  },
+  {
+    "start": 1006.549,
+    "end": 1007.83,
+    "text": "States back in 1929.",
+    "speaker": "SPEAKER_00",
+    "translation": "1929年也曾发生。"
+  },
+  {
+    "start": 1008.05,
+    "end": 1009.592,
+    "text": "Now",
+    "speaker": "SPEAKER_00",
+    "translation": "现在，"
+  },
+  {
+    "start": 1009.632,
+    "end": 1010.814,
+    "text": "the economy begins",
+    "speaker": "SPEAKER_00",
+    "translation": "经济开始"
+  },
+  {
+    "start": 1010.914,
+    "end": 1012.095,
+    "text": "deleveraging.",
+    "speaker": "SPEAKER_00",
+    "translation": "去杠杆化。"
+  },
+  {
+    "start": 1013.206,
+    "end": 1014.548,
+    "text": "In a deleveraging,",
+    "speaker": "SPEAKER_00",
+    "translation": "在去杠杆化中，"
+  },
+  {
+    "start": 1014.769,
+    "end": 1016.231,
+    "text": "people cut spending,",
+    "speaker": "SPEAKER_00",
+    "translation": "人们削减开支，"
+  },
+  {
+    "start": 1016.732,
+    "end": 1017.774,
+    "text": "incomes fall,",
+    "speaker": "SPEAKER_00",
+    "translation": "收入下降，"
+  },
+  {
+    "start": 1018.134,
+    "end": 1019.276,
+    "text": "credit disappears,",
+    "speaker": "SPEAKER_00",
+    "translation": "信贷枯竭，"
+  },
+  {
+    "start": 1019.797,
+    "end": 1020.959,
+    "text": "asset prices drop,",
+    "speaker": "SPEAKER_00",
+    "translation": "资产价格下跌，"
+  },
+  {
+    "start": 1021.32,
+    "end": 1022.842,
+    "text": "banks get squeezed,",
+    "speaker": "SPEAKER_00",
+    "translation": "银行受挤压，"
+  },
+  {
+    "start": 1022.862,
+    "end": 1024.846,
+    "text": "the stock market crashes,",
+    "speaker": "SPEAKER_00",
+    "translation": "股市崩盘，"
+  },
+  {
+    "start": 1024.866,
+    "end": 1026.228,
+    "text": "social tensions rise,",
+    "speaker": "SPEAKER_00",
+    "translation": "社会紧张加剧，"
+  },
+  {
+    "start": 1026.448,
+    "end": 1027.751,
+    "text": "and the whole thing starts",
+    "speaker": "SPEAKER_00",
+    "translation": "整个过程开始"
+  },
+  {
+    "start": 1027.831,
+    "end": 1029.814,
+    "text": "to feed on itself the other way.",
+    "speaker": "SPEAKER_00",
+    "translation": "反向自我强化。"
+  },
+  {
+    "start": 1030.891,
+    "end": 1032.133,
+    "text": "As incomes fall",
+    "speaker": "SPEAKER_00",
+    "translation": "随着收入下降，"
+  },
+  {
+    "start": 1032.214,
+    "end": 1033.696,
+    "text": "and debt repayments rise,",
+    "speaker": "SPEAKER_00",
+    "translation": "债务偿还额上升，"
+  },
+  {
+    "start": 1034.277,
+    "end": 1035.58,
+    "text": "borrowers get squeezed.",
+    "speaker": "SPEAKER_00",
+    "translation": "借款人就会受挤压。"
+  },
+  {
+    "start": 1036.381,
+    "end": 1037.764,
+    "text": "No longer credit- worthy.",
+    "speaker": "SPEAKER_00",
+    "translation": "不再有偿债能力。"
+  },
+  {
+    "start": 1038.145,
+    "end": 1040.61,
+    "text": "Credit dries up, and borrowers can no",
+    "speaker": "SPEAKER_00",
+    "translation": "信贷枯竭，借款人再也无法"
+  },
+  {
+    "start": 1040.69,
+    "end": 1041.912,
+    "text": "longer borrow enough money",
+    "speaker": "SPEAKER_00",
+    "translation": "借到足够的钱"
+  },
+  {
+    "start": 1041.952,
+    "end": 1044.918,
+    "text": "to make their debt repayments Scrambling.",
+    "speaker": "SPEAKER_00",
+    "translation": "来偿还债务，手足无措。"
+  },
+  {
+    "start": 1044.998,
+    "end": 1046.06,
+    "text": "To fill this hole,",
+    "speaker": "SPEAKER_00",
+    "translation": "为了填补这个窟窿，"
+  },
+  {
+    "start": 1046.22,
+    "end": 1047.302,
+    "text": "borrowers are forced",
+    "speaker": "SPEAKER_00",
+    "translation": "借款人被迫"
+  },
+  {
+    "start": 1047.322,
+    "end": 1048.765,
+    "text": "to sell assets.",
+    "speaker": "SPEAKER_00",
+    "translation": "出售资产。"
+  },
+  {
+    "start": 1048.745,
+    "end": 1050.307,
+    "text": "The rush to sell assets",
+    "speaker": "SPEAKER_00",
+    "translation": "竞相抛售资产"
+  },
+  {
+    "start": 1050.487,
+    "end": 1052.609,
+    "text": "floods the market at the same time",
+    "speaker": "SPEAKER_00",
+    "translation": "同时充斥市场"
+  },
+  {
+    "start": 1052.669,
+    "end": 1054.251,
+    "text": "as spending falls.",
+    "speaker": "SPEAKER_00",
+    "translation": "导致支出下降。"
+  },
+  {
+    "start": 1054.271,
+    "end": 1056.273,
+    "text": "This is when the stock market collapses,",
+    "speaker": "SPEAKER_00",
+    "translation": "这时股市崩盘，"
+  },
+  {
+    "start": 1056.693,
+    "end": 1058.195,
+    "text": "the real estate market tanks,",
+    "speaker": "SPEAKER_00",
+    "translation": "房地产市场暴跌，"
+  },
+  {
+    "start": 1058.275,
+    "end": 1059.716,
+    "text": "and banks get into trouble.",
+    "speaker": "SPEAKER_00",
+    "translation": "银行陷入困境。"
+  },
+  {
+    "start": 1060.397,
+    "end": 1061.779,
+    "text": "As asset prices drop,",
+    "speaker": "SPEAKER_00",
+    "translation": "随着资产价格下跌，"
+  },
+  {
+    "start": 1061.799,
+    "end": 1063.12,
+    "text": "the value of the collateral,",
+    "speaker": "SPEAKER_00",
+    "translation": "抵押品的价值，"
+  },
+  {
+    "start": 1063.22,
+    "end": 1064.742,
+    "text": "borrowers can put up drops.",
+    "speaker": "SPEAKER_00",
+    "translation": "借款人可提供的也随之下降。"
+  },
+  {
+    "start": 1065.342,
+    "end": 1066.464,
+    "text": "This makes borrowers",
+    "speaker": "SPEAKER_00",
+    "translation": "这使得借款人"
+  },
+  {
+    "start": 1066.724,
+    "end": 1068.205,
+    "text": "even less credit- worthy.",
+    "speaker": "SPEAKER_00",
+    "translation": "偿债能力更差。"
+  },
+  {
+    "start": 1068.886,
+    "end": 1070.007,
+    "text": "People feel poor.",
+    "speaker": "SPEAKER_00",
+    "translation": "人们感觉很穷。"
+  },
+  {
+    "start": 1070.848,
+    "end": 1072.009,
+    "text": "Credit rapidly",
+    "speaker": "SPEAKER_00",
+    "translation": "信贷迅速"
+  },
+  {
+    "start": 1072.089,
+    "end": 1073.571,
+    "text": "disappears,",
+    "speaker": "SPEAKER_00",
+    "translation": "消失，"
+  },
+  {
+    "start": 1073.635,
+    "end": 1074.776,
+    "text": "Less spending,",
+    "speaker": "SPEAKER_00",
+    "translation": "支出减少，"
+  },
+  {
+    "start": 1074.836,
+    "end": 1076.078,
+    "text": "less income,",
+    "speaker": "SPEAKER_00",
+    "translation": "收入减少，"
+  },
+  {
+    "start": 1076.498,
+    "end": 1078.44,
+    "text": "less wealth, less credit,",
+    "speaker": "SPEAKER_00",
+    "translation": "财富减少，信贷减少，"
+  },
+  {
+    "start": 1078.8,
+    "end": 1080.742,
+    "text": "less borrowing, and so on.",
+    "speaker": "SPEAKER_00",
+    "translation": "借贷减少，以此类推。"
+  },
+  {
+    "start": 1081.323,
+    "end": 1082.504,
+    "text": "It's a vicious cycle.",
+    "speaker": "SPEAKER_00",
+    "translation": "这是一个恶性循环。"
+  },
+  {
+    "start": 1083.085,
+    "end": 1085.167,
+    "text": "This appears similar to a recession,",
+    "speaker": "SPEAKER_00",
+    "translation": "这看起来像是一场衰退，"
+  },
+  {
+    "start": 1085.267,
+    "end": 1086.408,
+    "text": "but the difference here",
+    "speaker": "SPEAKER_00",
+    "translation": "但区别在于"
+  },
+  {
+    "start": 1086.648,
+    "end": 1089.872,
+    "text": "is that interest rates can't be lowered to save the day.",
+    "speaker": "SPEAKER_00",
+    "translation": "利率无法通过降低来挽救局面。"
+  },
+  {
+    "start": 1090.252,
+    "end": 1092.194,
+    "text": "In a recession, lowering interest",
+    "speaker": "SPEAKER_00",
+    "translation": "在经济衰退时，降低利率"
+  },
+  {
+    "start": 1092.254,
+    "end": 1094.176,
+    "text": "rates works to stimulate borrowing.",
+    "speaker": "SPEAKER_00",
+    "translation": "能刺激借贷。"
+  },
+  {
+    "start": 1094.677,
+    "end": 1096.418,
+    "text": "However, in a deleveraging,",
+    "speaker": "SPEAKER_00",
+    "translation": "然而，在去杠杆化时期，"
+  },
+  {
+    "start": 1096.579,
+    "end": 1098.3,
+    "text": "lowering interest rates doesn't work.",
+    "speaker": "SPEAKER_00",
+    "translation": "降低利率是行不通的。"
+  },
+  {
+    "start": 1098.401,
+    "end": 1100.503,
+    "text": "Because interest rates are already low",
+    "speaker": "SPEAKER_00",
+    "translation": "因为利率已经很低，"
+  },
+  {
+    "start": 1100.623,
+    "end": 1102.765,
+    "text": "and soon hit 0%.",
+    "speaker": "SPEAKER_00",
+    "translation": "很快就会降到0%。"
+  },
+  {
+    "start": 1102.745,
+    "end": 1104.147,
+    "text": "So the stimulation ends.",
+    "speaker": "SPEAKER_00",
+    "translation": "所以，刺激就此结束。"
+  },
+  {
+    "start": 1105.469,
+    "end": 1106.65,
+    "text": "Interest rates in the United",
+    "speaker": "SPEAKER_00",
+    "translation": "美国的利率"
+  },
+  {
+    "start": 1106.69,
+    "end": 1107.711,
+    "text": "States hit 0%",
+    "speaker": "SPEAKER_00",
+    "translation": "降到了0%"
+  },
+  {
+    "start": 1108.132,
+    "end": 1109.333,
+    "text": "during the deleveraging of",
+    "speaker": "SPEAKER_00",
+    "translation": "在去杠杆化期间"
+  },
+  {
+    "start": 1109.374,
+    "end": 1110.435,
+    "text": "the 1930s",
+    "speaker": "SPEAKER_00",
+    "translation": "1930年代"
+  },
+  {
+    "start": 1110.916,
+    "end": 1112.237,
+    "text": "and again in 2008.",
+    "speaker": "SPEAKER_00",
+    "translation": "以及2008年。"
+  },
+  {
+    "start": 1112.598,
+    "end": 1114.46,
+    "text": "The difference",
+    "speaker": "SPEAKER_00",
+    "translation": "衰退与"
+  },
+  {
+    "start": 1114.52,
+    "end": 1115.622,
+    "text": "between a recession",
+    "speaker": "SPEAKER_00",
+    "translation": "去杠杆化的"
+  },
+  {
+    "start": 1115.902,
+    "end": 1116.903,
+    "text": "and a deleveraging",
+    "speaker": "SPEAKER_00",
+    "translation": "区别在于，"
+  },
+  {
+    "start": 1117.164,
+    "end": 1118.625,
+    "text": "is that in a deleveraging,",
+    "speaker": "SPEAKER_00",
+    "translation": "在去杠杆化时，"
+  },
+  {
+    "start": 1118.826,
+    "end": 1120.248,
+    "text": "borrowers' debt burdens",
+    "speaker": "SPEAKER_00",
+    "translation": "借款人的债务负担"
+  },
+  {
+    "start": 1120.308,
+    "end": 1121.81,
+    "text": "have simply gotten too big",
+    "speaker": "SPEAKER_00",
+    "translation": "变得过于庞大，"
+  },
+  {
+    "start": 1121.85,
+    "end": 1123.071,
+    "text": "and can't be relieved.",
+    "speaker": "SPEAKER_00",
+    "translation": "无法得到缓解。"
+  },
+  {
+    "start": 1123.131,
+    "end": 1124.273,
+    "text": "By lowering interest rates,",
+    "speaker": "SPEAKER_00",
+    "translation": "通过降低利率，"
+  },
+  {
+    "start": 1125.214,
+    "end": 1126.696,
+    "text": "Lenders realize that debts",
+    "speaker": "SPEAKER_00",
+    "translation": "贷款人意识到债务"
+  },
+  {
+    "start": 1126.736,
+    "end": 1127.857,
+    "text": "have become too large",
+    "speaker": "SPEAKER_00",
+    "translation": "已经变得过于庞大，"
+  },
+  {
+    "start": 1127.937,
+    "end": 1129.9,
+    "text": "to ever be fully paid back.",
+    "speaker": "SPEAKER_00",
+    "translation": "以至于永远无法完全偿还。"
+  },
+  {
+    "start": 1130.318,
+    "end": 1131.479,
+    "text": "Borrowers have lost",
+    "speaker": "SPEAKER_00",
+    "translation": "借款人已经失去"
+  },
+  {
+    "start": 1131.499,
+    "end": 1132.841,
+    "text": "their ability to repay,",
+    "speaker": "SPEAKER_00",
+    "translation": "偿还能力，"
+  },
+  {
+    "start": 1132.901,
+    "end": 1134.643,
+    "text": "and their collateral has lost value.",
+    "speaker": "SPEAKER_00",
+    "translation": "且他们的抵押品也贬值了。"
+  },
+  {
+    "start": 1135.384,
+    "end": 1137.306,
+    "text": "They feel crippled by the debt.",
+    "speaker": "SPEAKER_00",
+    "translation": "他们感到被债务压垮了。"
+  },
+  {
+    "start": 1137.326,
+    "end": 1138.668,
+    "text": "They don't even want more.",
+    "speaker": "SPEAKER_00",
+    "translation": "他们甚至不想再借了。"
+  },
+  {
+    "start": 1139.489,
+    "end": 1140.89,
+    "text": "Lenders stop lending,",
+    "speaker": "SPEAKER_00",
+    "translation": "贷款人停止放贷，"
+  },
+  {
+    "start": 1141.09,
+    "end": 1142.572,
+    "text": "Borrowers stop borrowing.",
+    "speaker": "SPEAKER_00",
+    "translation": "借款人停止借贷。"
+  },
+  {
+    "start": 1143.653,
+    "end": 1145.395,
+    "text": "Think of the economy as being",
+    "speaker": "SPEAKER_00",
+    "translation": "把经济想象成"
+  },
+  {
+    "start": 1145.536,
+    "end": 1146.677,
+    "text": "not creditworthy,",
+    "speaker": "SPEAKER_00",
+    "translation": "一个信用不佳的实体，"
+  },
+  {
+    "start": 1147.157,
+    "end": 1148.519,
+    "text": "just like an individual.",
+    "speaker": "SPEAKER_00",
+    "translation": "就像个人一样。"
+  },
+  {
+    "start": 1149.34,
+    "end": 1150.421,
+    "text": "So what do you do",
+    "speaker": "SPEAKER_00",
+    "translation": "那么，你该怎么做"
+  },
+  {
+    "start": 1150.541,
+    "end": 1152.023,
+    "text": "about a deleveraging?",
+    "speaker": "SPEAKER_00",
+    "translation": "来应对去杠杆化呢？"
+  },
+  {
+    "start": 1153.252,
+    "end": 1154.494,
+    "text": "The problem is debt",
+    "speaker": "SPEAKER_00",
+    "translation": "问题是债务"
+  },
+  {
+    "start": 1154.534,
+    "end": 1155.635,
+    "text": "burdens are too high,",
+    "speaker": "SPEAKER_00",
+    "translation": "负担过重，"
+  },
+  {
+    "start": 1155.695,
+    "end": 1156.916,
+    "text": "and they must come down.",
+    "speaker": "SPEAKER_00",
+    "translation": "必须降低。"
+  },
+  {
+    "start": 1157.637,
+    "end": 1159.5,
+    "text": "There are four ways this can happen:",
+    "speaker": "SPEAKER_00",
+    "translation": "有四种办法可以解决："
+  },
+  {
+    "start": 1160.22,
+    "end": 1161.502,
+    "text": "One people,",
+    "speaker": "SPEAKER_00",
+    "translation": "一是个人、"
+  },
+  {
+    "start": 1161.582,
+    "end": 1163.985,
+    "text": "businesses, and governments cut their spending.",
+    "speaker": "SPEAKER_00",
+    "translation": "企业和政府削减开支。"
+  },
+  {
+    "start": 1164.586,
+    "end": 1165.887,
+    "text": "Two debts",
+    "speaker": "SPEAKER_00",
+    "translation": "二是债务"
+  },
+  {
+    "start": 1165.967,
+    "end": 1168.39,
+    "text": "are reduced through defaults and restructurings.",
+    "speaker": "SPEAKER_00",
+    "translation": "通过违约和重组来减少。"
+  },
+  {
+    "start": 1168.951,
+    "end": 1171.194,
+    "text": "Three wealth is redistributed",
+    "speaker": "SPEAKER_00",
+    "translation": "三是财富被重新分配，"
+  },
+  {
+    "start": 1171.254,
+    "end": 1173.116,
+    "text": "from the haves to the have-nots.",
+    "speaker": "SPEAKER_00",
+    "translation": "从富人到穷人。"
+  },
+  {
+    "start": 1174.257,
+    "end": 1175.259,
+    "text": "And finally four,",
+    "speaker": "SPEAKER_00",
+    "translation": "最后第四，"
+  },
+  {
+    "start": 1176.02,
+    "end": 1178.002,
+    "text": "the central bank prints new money.",
+    "speaker": "SPEAKER_00",
+    "translation": "央行印发新钞。"
+  },
+  {
+    "start": 1178.723,
+    "end": 1180.305,
+    "text": "These four ways have happened",
+    "speaker": "SPEAKER_00",
+    "translation": "这四种方法都曾发生，"
+  },
+  {
+    "start": 1180.405,
+    "end": 1181.907,
+    "text": "in every deleveraging",
+    "speaker": "SPEAKER_00",
+    "translation": "在每一次去杠杆化中，"
+  },
+  {
+    "start": 1181.987,
+    "end": 1182.988,
+    "text": "in modern history.",
+    "speaker": "SPEAKER_00",
+    "translation": "在现代史上。"
+  },
+  {
+    "start": 1185.652,
+    "end": 1187.7,
+    "text": "Usually, spending is cut first.",
+    "speaker": "SPEAKER_00",
+    "translation": "通常，首先削减开支。"
+  },
+  {
+    "start": 1188.283,
+    "end": 1189.448,
+    "text": "As we just saw people,",
+    "speaker": "SPEAKER_00",
+    "translation": "正如我们刚才所见，人们、"
+  },
+  {
+    "start": 1189.488,
+    "end": 1191.074,
+    "text": "businesses, and even governments",
+    "speaker": "SPEAKER_00",
+    "translation": "企业，甚至政府，"
+  },
+  {
+    "start": 1191.154,
+    "end": 1193.062,
+    "text": "tighten their belts and cut their spending",
+    "speaker": "SPEAKER_00",
+    "translation": "勒紧裤腰带，削减开支，"
+  },
+  {
+    "start": 1193.102,
+    "end": 1194.97,
+    "text": "so that they can pay down their debt.",
+    "speaker": "SPEAKER_00",
+    "translation": "以便偿还债务。"
+  },
+  {
+    "start": 1195.928,
+    "end": 1198.412,
+    "text": "This is often referred to as austerity.",
+    "speaker": "SPEAKER_00",
+    "translation": "这通常被称为紧缩政策。"
+  },
+  {
+    "start": 1199.093,
+    "end": 1201.718,
+    "text": "When borrowers stop taking on new debts",
+    "speaker": "SPEAKER_00",
+    "translation": "当借款人不再承担新债务，"
+  },
+  {
+    "start": 1201.898,
+    "end": 1203.661,
+    "text": "and start paying down old debts,",
+    "speaker": "SPEAKER_00",
+    "translation": "并开始偿还旧债务时，"
+  },
+  {
+    "start": 1204.122,
+    "end": 1206.566,
+    "text": "you might expect the debt burden to decrease.",
+    "speaker": "SPEAKER_00",
+    "translation": "你可能会预期债务负担会减轻。"
+  },
+  {
+    "start": 1207.408,
+    "end": 1208.61,
+    "text": "But the opposite happens.",
+    "speaker": "SPEAKER_00",
+    "translation": "但情况恰恰相反。"
+  },
+  {
+    "start": 1209.231,
+    "end": 1210.653,
+    "text": "Because spending is cut",
+    "speaker": "SPEAKER_00",
+    "translation": "因为开支减少，"
+  },
+  {
+    "start": 1211.054,
+    "end": 1212.196,
+    "text": "and one man's spending",
+    "speaker": "SPEAKER_00",
+    "translation": "一个人的开支"
+  },
+  {
+    "start": 1212.276,
+    "end": 1213.398,
+    "text": "is another man's income,",
+    "speaker": "SPEAKER_00",
+    "translation": "是另一个人的收入，"
+  },
+  {
+    "start": 1213.979,
+    "end": 1215.682,
+    "text": "it causes incomes to fall.",
+    "speaker": "SPEAKER_00",
+    "translation": "这导致收入下降。"
+  },
+  {
+    "start": 1216.664,
+    "end": 1218.927,
+    "text": "They fall faster than debts are repaid,",
+    "speaker": "SPEAKER_00",
+    "translation": "收入下降的速度快于债务偿还的速度，"
+  },
+  {
+    "start": 1219.108,
+    "end": 1220.47,
+    "text": "and the debt burden actually",
+    "speaker": "SPEAKER_00",
+    "translation": "而债务负担实际上"
+  },
+  {
+    "start": 1220.51,
+    "end": 1221.632,
+    "text": "gets worse.",
+    "speaker": "SPEAKER_00",
+    "translation": "变得更糟。"
+  },
+  {
+    "start": 1222.068,
+    "end": 1224.432,
+    "text": "As we've seen this cut in spending",
+    "speaker": "SPEAKER_00",
+    "translation": "正如我们所见，这种开支削减"
+  },
+  {
+    "start": 1224.512,
+    "end": 1226.195,
+    "text": "is deflationary and painful.",
+    "speaker": "SPEAKER_00",
+    "translation": "是通货紧缩的，而且令人痛苦。"
+  },
+  {
+    "start": 1227.016,
+    "end": 1228.158,
+    "text": "Businesses are forced",
+    "speaker": "SPEAKER_00",
+    "translation": "企业被迫"
+  },
+  {
+    "start": 1228.198,
+    "end": 1229.22,
+    "text": "to cut costs,",
+    "speaker": "SPEAKER_00",
+    "translation": "削减成本，"
+  },
+  {
+    "start": 1229.781,
+    "end": 1231.223,
+    "text": "which means less jobs",
+    "speaker": "SPEAKER_00",
+    "translation": "这意味着工作岗位减少，"
+  },
+  {
+    "start": 1231.483,
+    "end": 1232.625,
+    "text": "and higher unemployment.",
+    "speaker": "SPEAKER_00",
+    "translation": "失业率上升。"
+  },
+  {
+    "start": 1233.467,
+    "end": 1235.089,
+    "text": "This leads to the next step,",
+    "speaker": "SPEAKER_00",
+    "translation": "这引向了下一步，"
+  },
+  {
+    "start": 1235.57,
+    "end": 1237.393,
+    "text": "Debts must be reduced.",
+    "speaker": "SPEAKER_00",
+    "translation": "债务必须减少。"
+  },
+  {
+    "start": 1237.677,
+    "end": 1239.781,
+    "text": "Many borrowers find themselves unable",
+    "speaker": "SPEAKER_00",
+    "translation": "许多借款人发现自己无法"
+  },
+  {
+    "start": 1239.821,
+    "end": 1240.983,
+    "text": "to repay their loans,",
+    "speaker": "SPEAKER_00",
+    "translation": "偿还贷款，"
+  },
+  {
+    "start": 1241.545,
+    "end": 1242.767,
+    "text": "and a borrower's debts",
+    "speaker": "SPEAKER_00",
+    "translation": "而借款人的债务"
+  },
+  {
+    "start": 1242.987,
+    "end": 1244.13,
+    "text": "are a lender's assets.",
+    "speaker": "SPEAKER_00",
+    "translation": "却是贷方的资产。"
+  },
+  {
+    "start": 1244.47,
+    "end": 1246.594,
+    "text": "When a borrower doesn't repay the bank,",
+    "speaker": "SPEAKER_00",
+    "translation": "当借款人无法偿还银行贷款时，"
+  },
+  {
+    "start": 1246.995,
+    "end": 1248.137,
+    "text": "people get nervous that",
+    "speaker": "SPEAKER_00",
+    "translation": "人们就会担心"
+  },
+  {
+    "start": 1248.177,
+    "end": 1250.101,
+    "text": "the bank won't be able to repay them,",
+    "speaker": "SPEAKER_00",
+    "translation": "银行也无法偿还他们，"
+  },
+  {
+    "start": 1250.522,
+    "end": 1252.927,
+    "text": "so they rush to withdraw their money from the bank.",
+    "speaker": "SPEAKER_00",
+    "translation": "于是他们争相从银行取款。"
+  },
+  {
+    "start": 1253.708,
+    "end": 1254.83,
+    "text": "Banks get squeezed,",
+    "speaker": "SPEAKER_00",
+    "translation": "银行陷入困境，"
+  },
+  {
+    "start": 1254.891,
+    "end": 1256.253,
+    "text": "and people, businesses,",
+    "speaker": "SPEAKER_00",
+    "translation": "个人、企业，"
+  },
+  {
+    "start": 1256.333,
+    "end": 1258.217,
+    "text": "and banks default on their debts.",
+    "speaker": "SPEAKER_00",
+    "translation": "和银行都会违约。"
+  },
+  {
+    "start": 1259.193,
+    "end": 1261.638,
+    "text": "This severe economic contraction",
+    "speaker": "SPEAKER_00",
+    "translation": "这种严重的经济收缩"
+  },
+  {
+    "start": 1262.339,
+    "end": 1263.421,
+    "text": "is a depression.",
+    "speaker": "SPEAKER_00",
+    "translation": "就是萧条。"
+  },
+  {
+    "start": 1263.441,
+    "end": 1264.783,
+    "text": "A big",
+    "speaker": "SPEAKER_00",
+    "translation": "萧条的很大"
+  },
+  {
+    "start": 1264.884,
+    "end": 1265.986,
+    "text": "part of a depression",
+    "speaker": "SPEAKER_00",
+    "translation": "一部分，是人们"
+  },
+  {
+    "start": 1266.026,
+    "end": 1268.009,
+    "text": "is people discovering much of",
+    "speaker": "SPEAKER_00",
+    "translation": "发现他们自以为的很多"
+  },
+  {
+    "start": 1268.09,
+    "end": 1271.155,
+    "text": "what they thought was their wealth isn't really there.",
+    "speaker": "SPEAKER_00",
+    "translation": "财富，其实并不真正存在。"
+  },
+  {
+    "start": 1271.276,
+    "end": 1272.678,
+    "text": "Let's go",
+    "speaker": "SPEAKER_00",
+    "translation": "我们回到"
+  },
+  {
+    "start": 1272.738,
+    "end": 1274.181,
+    "text": "back to the bar.",
+    "speaker": "SPEAKER_00",
+    "translation": "酒吧吧。"
+  },
+  {
+    "start": 1274.397,
+    "end": 1275.619,
+    "text": "When you bought a beer",
+    "speaker": "SPEAKER_00",
+    "translation": "当你买了啤酒，"
+  },
+  {
+    "start": 1275.979,
+    "end": 1277.581,
+    "text": "and put it on a bar tab,",
+    "speaker": "SPEAKER_00",
+    "translation": "并把它记在酒吧账单上时，"
+  },
+  {
+    "start": 1277.641,
+    "end": 1280.044,
+    "text": "you promised to repay the bartender.",
+    "speaker": "SPEAKER_00",
+    "translation": "你承诺会还酒吧老板钱。"
+  },
+  {
+    "start": 1280.765,
+    "end": 1283.449,
+    "text": "Your promise became an asset of the bartender.",
+    "speaker": "SPEAKER_00",
+    "translation": "你的承诺成了酒保的资产。"
+  },
+  {
+    "start": 1284.03,
+    "end": 1285.291,
+    "text": "But if you break your promise,",
+    "speaker": "SPEAKER_00",
+    "translation": "但如果你违背诺言，"
+  },
+  {
+    "start": 1285.872,
+    "end": 1287.033,
+    "text": "if you don't pay him back",
+    "speaker": "SPEAKER_00",
+    "translation": "如果你不还他钱，"
+  },
+  {
+    "start": 1287.114,
+    "end": 1289.136,
+    "text": "and essentially default on your bar tab,",
+    "speaker": "SPEAKER_00",
+    "translation": "本质上，如果你拖欠酒吧账单，"
+  },
+  {
+    "start": 1289.637,
+    "end": 1291.099,
+    "text": "then the asset he has",
+    "speaker": "SPEAKER_00",
+    "translation": "那么他拥有的资产"
+  },
+  {
+    "start": 1291.119,
+    "end": 1292.561,
+    "text": "isn't really worth anything.",
+    "speaker": "SPEAKER_00",
+    "translation": "就一文不值了。"
+  },
+  {
+    "start": 1293.362,
+    "end": 1295.064,
+    "text": "It has basically disappeared.",
+    "speaker": "SPEAKER_00",
+    "translation": "它基本上消失了。"
+  },
+  {
+    "start": 1295.945,
+    "end": 1297.007,
+    "text": "Many lenders don't",
+    "speaker": "SPEAKER_00",
+    "translation": "许多贷方不"
+  },
+  {
+    "start": 1297.087,
+    "end": 1298.769,
+    "text": "want their assets to disappear",
+    "speaker": "SPEAKER_00",
+    "translation": "希望他们的资产消失，"
+  },
+  {
+    "start": 1298.829,
+    "end": 1301.232,
+    "text": "and agree to debt restructuring.",
+    "speaker": "SPEAKER_00",
+    "translation": "并同意债务重组。"
+  },
+  {
+    "start": 1301.498,
+    "end": 1302.86,
+    "text": "Debt restructuring means",
+    "speaker": "SPEAKER_00",
+    "translation": "债务重组意味着"
+  },
+  {
+    "start": 1302.96,
+    "end": 1304.702,
+    "text": "lenders get paid back less",
+    "speaker": "SPEAKER_00",
+    "translation": "贷方收回的钱更少，"
+  },
+  {
+    "start": 1305.423,
+    "end": 1306.604,
+    "text": "or get paid back over",
+    "speaker": "SPEAKER_00",
+    "translation": "或者在更长的时间内"
+  },
+  {
+    "start": 1306.644,
+    "end": 1307.926,
+    "text": "a longer timeframe,",
+    "speaker": "SPEAKER_00",
+    "translation": "收回贷款，"
+  },
+  {
+    "start": 1308.206,
+    "end": 1309.488,
+    "text": "or at a lower interest rate",
+    "speaker": "SPEAKER_00",
+    "translation": "或者以更低的利率，"
+  },
+  {
+    "start": 1309.528,
+    "end": 1310.689,
+    "text": "than was first agreed.",
+    "speaker": "SPEAKER_00",
+    "translation": "而不是最初商定的。"
+  },
+  {
+    "start": 1311.51,
+    "end": 1313.993,
+    "text": "Somehow, a contract is broken in a way",
+    "speaker": "SPEAKER_00",
+    "translation": "不知何故，合同以某种方式被打破，"
+  },
+  {
+    "start": 1314.053,
+    "end": 1315.115,
+    "text": "that reduces debt.",
+    "speaker": "SPEAKER_00",
+    "translation": "从而减少了债务。"
+  },
+  {
+    "start": 1315.856,
+    "end": 1316.897,
+    "text": "Lenders would rather have",
+    "speaker": "SPEAKER_00",
+    "translation": "贷方宁愿得到"
+  },
+  {
+    "start": 1316.937,
+    "end": 1318.018,
+    "text": "a little of something",
+    "speaker": "SPEAKER_00",
+    "translation": "一点东西，"
+  },
+  {
+    "start": 1318.118,
+    "end": 1319.32,
+    "text": "than all of nothing.",
+    "speaker": "SPEAKER_00",
+    "translation": "也不愿一无所有。"
+  },
+  {
+    "start": 1320.261,
+    "end": 1321.803,
+    "text": "Even though debt disappears,",
+    "speaker": "SPEAKER_00",
+    "translation": "即使债务消失了，"
+  },
+  {
+    "start": 1321.943,
+    "end": 1323.365,
+    "text": "debt restructuring causes",
+    "speaker": "SPEAKER_00",
+    "translation": "债务重组导致"
+  },
+  {
+    "start": 1323.405,
+    "end": 1324.967,
+    "text": "income and asset values",
+    "speaker": "SPEAKER_00",
+    "translation": "收入和资产价值"
+  },
+  {
+    "start": 1325.027,
+    "end": 1326.509,
+    "text": "to disappear faster,",
+    "speaker": "SPEAKER_00",
+    "translation": "消失得更快，"
+  },
+  {
+    "start": 1327.11,
+    "end": 1328.691,
+    "text": "so the debt burden continues",
+    "speaker": "SPEAKER_00",
+    "translation": "所以债务负担持续"
+  },
+  {
+    "start": 1328.752,
+    "end": 1329.953,
+    "text": "to get worse.",
+    "speaker": "SPEAKER_00",
+    "translation": "恶化。"
+  },
+  {
+    "start": 1330.574,
+    "end": 1331.958,
+    "text": "Like cutting spending,",
+    "speaker": "SPEAKER_00",
+    "translation": "就像削减支出一样，"
+  },
+  {
+    "start": 1332.018,
+    "end": 1333.142,
+    "text": "debt reduction is",
+    "speaker": "SPEAKER_00",
+    "translation": "债务削减"
+  },
+  {
+    "start": 1333.182,
+    "end": 1335.448,
+    "text": "also painful and deflationary.",
+    "speaker": "SPEAKER_00",
+    "translation": "也痛苦并导致通货紧缩。"
+  },
+  {
+    "start": 1336.913,
+    "end": 1339.54,
+    "text": "All of this impacts the central government",
+    "speaker": "SPEAKER_00",
+    "translation": "这一切都影响着中央政府，"
+  },
+  {
+    "start": 1339.581,
+    "end": 1341.827,
+    "text": "because lower incomes and less employment",
+    "speaker": "SPEAKER_00",
+    "translation": "因为收入减少和就业下降，"
+  },
+  {
+    "start": 1342.248,
+    "end": 1345.157,
+    "text": "means the government collects fewer taxes.",
+    "speaker": "SPEAKER_00",
+    "translation": "意味着政府收取的税款更少。"
+  },
+  {
+    "start": 1345.61,
+    "end": 1348.395,
+    "text": "At the same time, it needs to increase its spending.",
+    "speaker": "SPEAKER_00",
+    "translation": "与此同时，它需要增加支出。"
+  },
+  {
+    "start": 1348.475,
+    "end": 1350.057,
+    "text": "Because unemployment has risen,",
+    "speaker": "SPEAKER_00",
+    "translation": "因为失业率上升，"
+  },
+  {
+    "start": 1350.859,
+    "end": 1351.98,
+    "text": "Many of the unemployed",
+    "speaker": "SPEAKER_00",
+    "translation": "许多失业者"
+  },
+  {
+    "start": 1352.381,
+    "end": 1353.884,
+    "text": "have inadequate savings",
+    "speaker": "SPEAKER_00",
+    "translation": "存款不足，"
+  },
+  {
+    "start": 1354.044,
+    "end": 1356.308,
+    "text": "and need financial support from the government.",
+    "speaker": "SPEAKER_00",
+    "translation": "需要政府的财政支持。"
+  },
+  {
+    "start": 1357.169,
+    "end": 1358.451,
+    "text": "Additionally, governments",
+    "speaker": "SPEAKER_00",
+    "translation": "此外，政府"
+  },
+  {
+    "start": 1358.531,
+    "end": 1359.893,
+    "text": "create stimulus plans",
+    "speaker": "SPEAKER_00",
+    "translation": "制定刺激计划"
+  },
+  {
+    "start": 1360.334,
+    "end": 1361.556,
+    "text": "and increase their spending",
+    "speaker": "SPEAKER_00",
+    "translation": "并增加支出，"
+  },
+  {
+    "start": 1361.616,
+    "end": 1363.78,
+    "text": "to make up for the decrease in the economy.",
+    "speaker": "SPEAKER_00",
+    "translation": "以弥补经济下滑。"
+  },
+  {
+    "start": 1365.022,
+    "end": 1366.044,
+    "text": "Governments' budget",
+    "speaker": "SPEAKER_00",
+    "translation": "政府的预算"
+  },
+  {
+    "start": 1366.064,
+    "end": 1367.246,
+    "text": "deficits explode",
+    "speaker": "SPEAKER_00",
+    "translation": "赤字激增，"
+  },
+  {
+    "start": 1367.306,
+    "end": 1368.568,
+    "text": "in the deleveraging because",
+    "speaker": "SPEAKER_00",
+    "translation": "在去杠杆化过程中，"
+  },
+  {
+    "start": 1368.608,
+    "end": 1371.212,
+    "text": "they spend more than they earn in taxes.",
+    "speaker": "SPEAKER_00",
+    "translation": "它们的支出超过了税收收入。"
+  },
+  {
+    "start": 1371.665,
+    "end": 1372.868,
+    "text": "This is what's happening",
+    "speaker": "SPEAKER_00",
+    "translation": "这就是"
+  },
+  {
+    "start": 1372.928,
+    "end": 1374.272,
+    "text": "when you hear about the budget",
+    "speaker": "SPEAKER_00",
+    "translation": "你在新闻中听到预算"
+  },
+  {
+    "start": 1374.312,
+    "end": 1375.535,
+    "text": "deficit on the news.",
+    "speaker": "SPEAKER_00",
+    "translation": "赤字时的情况。"
+  },
+  {
+    "start": 1376.798,
+    "end": 1378.522,
+    "text": "To fund their deficits,",
+    "speaker": "SPEAKER_00",
+    "translation": "为了弥补赤字，"
+  },
+  {
+    "start": 1378.542,
+    "end": 1379.846,
+    "text": "governments need to either",
+    "speaker": "SPEAKER_00",
+    "translation": "政府需要"
+  },
+  {
+    "start": 1379.886,
+    "end": 1381.109,
+    "text": "raise taxes",
+    "speaker": "SPEAKER_00",
+    "translation": "要么增税，"
+  },
+  {
+    "start": 1381.65,
+    "end": 1383.204,
+    "text": "or borrow money, But",
+    "speaker": "SPEAKER_00",
+    "translation": "要么借钱。"
+  },
+  {
+    "start": 1383.204,
+    "end": 1383.515,
+    "text": "or borrow money, But",
+    "speaker": "SPEAKER_00",
+    "translation": "但"
+  },
+  {
+    "start": 1383.555,
+    "end": 1384.658,
+    "text": "with incomes falling",
+    "speaker": "SPEAKER_00",
+    "translation": "随着收入下降，"
+  },
+  {
+    "start": 1384.718,
+    "end": 1385.921,
+    "text": "and so many unemployed",
+    "speaker": "SPEAKER_00",
+    "translation": "失业人数众多，"
+  },
+  {
+    "start": 1386.523,
+    "end": 1388.058,
+    "text": "who is the money going to come from the rich.",
+    "speaker": "SPEAKER_00",
+    "translation": "钱从哪儿来呢？"
+  },
+  {
+    "start": 1388.058,
+    "end": 1389.593,
+    "text": "who is the money going to come from the rich.",
+    "speaker": "SPEAKER_00",
+    "translation": "只能来自富人。"
+  },
+  {
+    "start": 1390.435,
+    "end": 1392.119,
+    "text": "Since governments need more money",
+    "speaker": "SPEAKER_00",
+    "translation": "鉴于政府需要更多资金，"
+  },
+  {
+    "start": 1392.259,
+    "end": 1393.743,
+    "text": "and since wealth is heavily",
+    "speaker": "SPEAKER_00",
+    "translation": "且财富高度"
+  },
+  {
+    "start": 1393.803,
+    "end": 1395.126,
+    "text": "concentrated in the hands",
+    "speaker": "SPEAKER_00",
+    "translation": "集中在"
+  },
+  {
+    "start": 1395.206,
+    "end": 1396.95,
+    "text": "of a small percentage of the people,",
+    "speaker": "SPEAKER_00",
+    "translation": "少数人手中，"
+  },
+  {
+    "start": 1397.611,
+    "end": 1398.694,
+    "text": "governments naturally",
+    "speaker": "SPEAKER_00",
+    "translation": "政府自然会"
+  },
+  {
+    "start": 1398.754,
+    "end": 1400.298,
+    "text": "raise taxes on the wealthy,",
+    "speaker": "SPEAKER_00",
+    "translation": "对富人增税，"
+  },
+  {
+    "start": 1400.879,
+    "end": 1401.941,
+    "text": "which facilitates",
+    "speaker": "SPEAKER_00",
+    "translation": "这促进了"
+  },
+  {
+    "start": 1402.021,
+    "end": 1404.347,
+    "text": "a redistribution of wealth in the economy.",
+    "speaker": "SPEAKER_00",
+    "translation": "经济中财富的再分配。"
+  },
+  {
+    "start": 1404.828,
+    "end": 1405.83,
+    "text": "From the haves to the",
+    "speaker": "SPEAKER_00",
+    "translation": "从富人到"
+  },
+  {
+    "start": 1405.89,
+    "end": 1407.173,
+    "text": "have-nots,",
+    "speaker": "SPEAKER_00",
+    "translation": "穷人，"
+  },
+  {
+    "start": 1407.153,
+    "end": 1408.876,
+    "text": "The have-nots who are suffering",
+    "speaker": "SPEAKER_00",
+    "translation": "那些正在受苦的穷人"
+  },
+  {
+    "start": 1408.936,
+    "end": 1410.819,
+    "text": "begin to resent the wealthy haves.",
+    "speaker": "SPEAKER_00",
+    "translation": "开始怨恨富人。"
+  },
+  {
+    "start": 1411.32,
+    "end": 1412.542,
+    "text": "The wealthy haves",
+    "speaker": "SPEAKER_00",
+    "translation": "富人"
+  },
+  {
+    "start": 1412.663,
+    "end": 1413.704,
+    "text": "being squeezed by",
+    "speaker": "SPEAKER_00",
+    "translation": "被"
+  },
+  {
+    "start": 1413.745,
+    "end": 1414.826,
+    "text": "the weak economy",
+    "speaker": "SPEAKER_00",
+    "translation": "疲软的经济、"
+  },
+  {
+    "start": 1414.967,
+    "end": 1416.149,
+    "text": "falling asset prices",
+    "speaker": "SPEAKER_00",
+    "translation": "下跌的资产价格"
+  },
+  {
+    "start": 1416.409,
+    "end": 1417.471,
+    "text": "and higher taxes",
+    "speaker": "SPEAKER_00",
+    "translation": "和更高的税收"
+  },
+  {
+    "start": 1417.732,
+    "end": 1419.595,
+    "text": "begin to resent the have-nots.",
+    "speaker": "SPEAKER_00",
+    "translation": "压榨，开始怨恨穷人。"
+  },
+  {
+    "start": 1420.076,
+    "end": 1421.658,
+    "text": "If the depression continues,",
+    "speaker": "SPEAKER_00",
+    "translation": "如果萧条持续下去，"
+  },
+  {
+    "start": 1422.059,
+    "end": 1423.822,
+    "text": "social disorder can break out.",
+    "speaker": "SPEAKER_00",
+    "translation": "社会动荡就会爆发。"
+  },
+  {
+    "start": 1424.744,
+    "end": 1425.946,
+    "text": "Not only do tensions",
+    "speaker": "SPEAKER_00",
+    "translation": "不仅是紧张局势"
+  },
+  {
+    "start": 1426.026,
+    "end": 1427.188,
+    "text": "rise within countries,",
+    "speaker": "SPEAKER_00",
+    "translation": "在国内加剧，"
+  },
+  {
+    "start": 1427.709,
+    "end": 1429.352,
+    "text": "they can rise between countries,",
+    "speaker": "SPEAKER_00",
+    "translation": "国家之间也可能加剧，"
+  },
+  {
+    "start": 1429.933,
+    "end": 1432.317,
+    "text": "especially debtor and creditor countries.",
+    "speaker": "SPEAKER_00",
+    "translation": "尤其在债务国和债权国之间。"
+  },
+  {
+    "start": 1433.039,
+    "end": 1434.601,
+    "text": "This situation can lead",
+    "speaker": "SPEAKER_00",
+    "translation": "这种情况可能导致"
+  },
+  {
+    "start": 1434.681,
+    "end": 1435.923,
+    "text": "to political change",
+    "speaker": "SPEAKER_00",
+    "translation": "政治变革，"
+  },
+  {
+    "start": 1436.123,
+    "end": 1437.866,
+    "text": "that can sometimes be extreme.",
+    "speaker": "SPEAKER_00",
+    "translation": "有时甚至会走向极端。"
+  },
+  {
+    "start": 1438.947,
+    "end": 1440.389,
+    "text": "In the 1930s, this",
+    "speaker": "SPEAKER_00",
+    "translation": "在1930年代，这"
+  },
+  {
+    "start": 1440.75,
+    "end": 1442.532,
+    "text": "led to Hitler coming to power,",
+    "speaker": "SPEAKER_00",
+    "translation": "导致了希特勒上台，"
+  },
+  {
+    "start": 1442.853,
+    "end": 1445.376,
+    "text": "war in Europe and depression in the United States.",
+    "speaker": "SPEAKER_00",
+    "translation": "欧洲爆发战争，以及美国经济大萧条。"
+  },
+  {
+    "start": 1446.938,
+    "end": 1448.601,
+    "text": "Pressure to do something to end",
+    "speaker": "SPEAKER_00",
+    "translation": "结束经济萧条的压力"
+  },
+  {
+    "start": 1448.621,
+    "end": 1449.862,
+    "text": "the depression increases.",
+    "speaker": "SPEAKER_00",
+    "translation": "越来越大。"
+  },
+  {
+    "start": 1451.024,
+    "end": 1452.166,
+    "text": "Remember most of",
+    "speaker": "SPEAKER_00",
+    "translation": "请记住，大部分"
+  },
+  {
+    "start": 1452.246,
+    "end": 1453.748,
+    "text": "what people thought was money",
+    "speaker": "SPEAKER_00",
+    "translation": "人们以为的钱，"
+  },
+  {
+    "start": 1453.828,
+    "end": 1454.909,
+    "text": "was actually credit.",
+    "speaker": "SPEAKER_00",
+    "translation": "其实是信贷。"
+  },
+  {
+    "start": 1455.45,
+    "end": 1456.752,
+    "text": "So when credit disappears,",
+    "speaker": "SPEAKER_00",
+    "translation": "所以当信贷消失时，"
+  },
+  {
+    "start": 1457.052,
+    "end": 1458.895,
+    "text": "people don't have enough money.",
+    "speaker": "SPEAKER_00",
+    "translation": "人们就没有足够的钱了。"
+  },
+  {
+    "start": 1459.212,
+    "end": 1460.794,
+    "text": "People are desperate for money,",
+    "speaker": "SPEAKER_00",
+    "translation": "人们急需用钱，"
+  },
+  {
+    "start": 1460.834,
+    "end": 1461.896,
+    "text": "and you remember",
+    "speaker": "SPEAKER_00",
+    "translation": "你还记得"
+  },
+  {
+    "start": 1461.956,
+    "end": 1463.037,
+    "text": "who can print money?",
+    "speaker": "SPEAKER_00",
+    "translation": "谁能印钞吗？"
+  },
+  {
+    "start": 1463.077,
+    "end": 1465.14,
+    "text": "The central bank can,",
+    "speaker": "SPEAKER_00",
+    "translation": "央行可以做到。"
+  },
+  {
+    "start": 1467.423,
+    "end": 1468.444,
+    "text": "Having already lowered",
+    "speaker": "SPEAKER_00",
+    "translation": "由于利率已"
+  },
+  {
+    "start": 1468.504,
+    "end": 1470.186,
+    "text": "its interest rates to nearly zero,",
+    "speaker": "SPEAKER_00",
+    "translation": "降至近乎为零，"
+  },
+  {
+    "start": 1470.387,
+    "end": 1471.628,
+    "text": "it's forced to print money.",
+    "speaker": "SPEAKER_00",
+    "translation": "它被迫印钞。"
+  },
+  {
+    "start": 1472.57,
+    "end": 1473.951,
+    "text": "Unlike cutting spending,",
+    "speaker": "SPEAKER_00",
+    "translation": "与削减开支、"
+  },
+  {
+    "start": 1474.432,
+    "end": 1475.954,
+    "text": "debt reduction, and wealth",
+    "speaker": "SPEAKER_00",
+    "translation": "债务削减和财富"
+  },
+  {
+    "start": 1476.034,
+    "end": 1477.076,
+    "text": "redistribution,",
+    "speaker": "SPEAKER_00",
+    "translation": "再分配不同，"
+  },
+  {
+    "start": 1477.436,
+    "end": 1480.079,
+    "text": "printing money is inflationary and stimulative.",
+    "speaker": "SPEAKER_00",
+    "translation": "印钞会引发通胀并刺激经济。"
+  },
+  {
+    "start": 1480.74,
+    "end": 1482.222,
+    "text": "Inevitably, the central bank",
+    "speaker": "SPEAKER_00",
+    "translation": "必然地，央行"
+  },
+  {
+    "start": 1482.322,
+    "end": 1484.085,
+    "text": "prints new money out of thin air",
+    "speaker": "SPEAKER_00",
+    "translation": "凭空印发新钞，"
+  },
+  {
+    "start": 1484.105,
+    "end": 1485.467,
+    "text": "and uses it",
+    "speaker": "SPEAKER_00",
+    "translation": "并用它"
+  },
+  {
+    "start": 1485.547,
+    "end": 1487.069,
+    "text": "to buy financial assets",
+    "speaker": "SPEAKER_00",
+    "translation": "购买金融资产"
+  },
+  {
+    "start": 1487.229,
+    "end": 1488.831,
+    "text": "and government bonds.",
+    "speaker": "SPEAKER_00",
+    "translation": "和政府债券。"
+  },
+  {
+    "start": 1488.811,
+    "end": 1490.633,
+    "text": "It happened in the United States",
+    "speaker": "SPEAKER_00",
+    "translation": "这发生在美国"
+  },
+  {
+    "start": 1490.733,
+    "end": 1492.055,
+    "text": "during the Great Depression,",
+    "speaker": "SPEAKER_00",
+    "translation": "大萧条时期，"
+  },
+  {
+    "start": 1492.376,
+    "end": 1493.677,
+    "text": "and again in 2008,",
+    "speaker": "SPEAKER_00",
+    "translation": "2008年又再次发生，"
+  },
+  {
+    "start": 1494.198,
+    "end": 1496.06,
+    "text": "when the United States Central Bank.",
+    "speaker": "SPEAKER_00",
+    "translation": "当时美国中央银行。"
+  },
+  {
+    "start": 1496.08,
+    "end": 1497.362,
+    "text": "The Federal Reserve",
+    "speaker": "SPEAKER_00",
+    "translation": "美联储"
+  },
+  {
+    "start": 1497.562,
+    "end": 1499.745,
+    "text": "printed over $2 trillion",
+    "speaker": "SPEAKER_00",
+    "translation": "印制了超过2万亿美元。"
+  },
+  {
+    "start": 1500.326,
+    "end": 1501.848,
+    "text": "Other central banks around the world",
+    "speaker": "SPEAKER_00",
+    "translation": "世界各地其他能够印钞的央行"
+  },
+  {
+    "start": 1501.908,
+    "end": 1503.95,
+    "text": "that could printed a lot of money too.",
+    "speaker": "SPEAKER_00",
+    "translation": "也印了很多钱。"
+  },
+  {
+    "start": 1504.952,
+    "end": 1506.193,
+    "text": "By buying financial",
+    "speaker": "SPEAKER_00",
+    "translation": "通过购买金融"
+  },
+  {
+    "start": 1506.313,
+    "end": 1507.315,
+    "text": "assets with this money,",
+    "speaker": "SPEAKER_00",
+    "translation": "资产，用这些钱，"
+  },
+  {
+    "start": 1507.555,
+    "end": 1509.618,
+    "text": "it helps drive up asset prices,",
+    "speaker": "SPEAKER_00",
+    "translation": "它有助于推高资产价格，"
+  },
+  {
+    "start": 1509.738,
+    "end": 1512.321,
+    "text": "which makes people more creditworthy.",
+    "speaker": "SPEAKER_00",
+    "translation": "这会使人们更具偿债能力。"
+  },
+  {
+    "start": 1512.487,
+    "end": 1514.27,
+    "text": "However, this only helps those",
+    "speaker": "SPEAKER_00",
+    "translation": "然而，这只帮助那些"
+  },
+  {
+    "start": 1514.31,
+    "end": 1516.475,
+    "text": "who own financial assets.",
+    "speaker": "SPEAKER_00",
+    "translation": "拥有金融资产的人。"
+  },
+  {
+    "start": 1516.495,
+    "end": 1518.558,
+    "text": "You see, the central bank can print money,",
+    "speaker": "SPEAKER_00",
+    "translation": "你看，央行可以印钞，"
+  },
+  {
+    "start": 1519.32,
+    "end": 1520.522,
+    "text": "but it can only buy",
+    "speaker": "SPEAKER_00",
+    "translation": "但它只能购买"
+  },
+  {
+    "start": 1520.562,
+    "end": 1521.644,
+    "text": "financial assets.",
+    "speaker": "SPEAKER_00",
+    "translation": "金融资产。"
+  },
+  {
+    "start": 1522.786,
+    "end": 1524.77,
+    "text": "The central government, on the other hand,",
+    "speaker": "SPEAKER_00",
+    "translation": "另一方面，中央政府"
+  },
+  {
+    "start": 1525.271,
+    "end": 1527.014,
+    "text": "can buy goods and services",
+    "speaker": "SPEAKER_00",
+    "translation": "可以购买商品和服务"
+  },
+  {
+    "start": 1527.475,
+    "end": 1529.399,
+    "text": "and put money in the hands of the people,",
+    "speaker": "SPEAKER_00",
+    "translation": "并将钱交到人们手中，"
+  },
+  {
+    "start": 1529.92,
+    "end": 1531.643,
+    "text": "but it can't print money.",
+    "speaker": "SPEAKER_00",
+    "translation": "但它不能印钞。"
+  },
+  {
+    "start": 1531.994,
+    "end": 1534.196,
+    "text": "So in order to stimulate the economy,",
+    "speaker": "SPEAKER_00",
+    "translation": "所以为了刺激经济，"
+  },
+  {
+    "start": 1534.236,
+    "end": 1535.538,
+    "text": "the two must cooperate.",
+    "speaker": "SPEAKER_00",
+    "translation": "两者必须合作。"
+  },
+  {
+    "start": 1536.099,
+    "end": 1537.82,
+    "text": "By buying government bonds.",
+    "speaker": "SPEAKER_00",
+    "translation": "通过购买政府债券。"
+  },
+  {
+    "start": 1537.961,
+    "end": 1539.462,
+    "text": "The central bank essentially",
+    "speaker": "SPEAKER_00",
+    "translation": "央行实质上"
+  },
+  {
+    "start": 1539.582,
+    "end": 1541.024,
+    "text": "lends money to the government,",
+    "speaker": "SPEAKER_00",
+    "translation": "向政府借款，"
+  },
+  {
+    "start": 1541.625,
+    "end": 1543.286,
+    "text": "allowing it to run a deficit",
+    "speaker": "SPEAKER_00",
+    "translation": "允许其赤字运行，"
+  },
+  {
+    "start": 1543.467,
+    "end": 1544.748,
+    "text": "and increase spending",
+    "speaker": "SPEAKER_00",
+    "translation": "并增加支出"
+  },
+  {
+    "start": 1545.088,
+    "end": 1546.39,
+    "text": "on goods and services",
+    "speaker": "SPEAKER_00",
+    "translation": "在商品和服务上，"
+  },
+  {
+    "start": 1546.69,
+    "end": 1548.492,
+    "text": "through its stimulus programs",
+    "speaker": "SPEAKER_00",
+    "translation": "通过其刺激计划"
+  },
+  {
+    "start": 1548.813,
+    "end": 1550.234,
+    "text": "and unemployment benefits.",
+    "speaker": "SPEAKER_00",
+    "translation": "和失业救济金。"
+  },
+  {
+    "start": 1550.795,
+    "end": 1552.837,
+    "text": "This increases people's income,",
+    "speaker": "SPEAKER_00",
+    "translation": "这增加了人们的收入，"
+  },
+  {
+    "start": 1553.237,
+    "end": 1554.679,
+    "text": "as well as the government's debt.",
+    "speaker": "SPEAKER_00",
+    "translation": "以及政府的债务。"
+  },
+  {
+    "start": 1555.56,
+    "end": 1557.002,
+    "text": "However, it will lower",
+    "speaker": "SPEAKER_00",
+    "translation": "然而，它将降低"
+  },
+  {
+    "start": 1557.042,
+    "end": 1559.284,
+    "text": "the economy's total debt burden.",
+    "speaker": "SPEAKER_00",
+    "translation": "经济的总债务负担。"
+  },
+  {
+    "start": 1559.905,
+    "end": 1561.647,
+    "text": "This is a very risky time.",
+    "speaker": "SPEAKER_00",
+    "translation": "这是一个非常危险的时期。"
+  },
+  {
+    "start": 1562.228,
+    "end": 1563.57,
+    "text": "Policymakers need to",
+    "speaker": "SPEAKER_00",
+    "translation": "政策制定者需要"
+  },
+  {
+    "start": 1563.69,
+    "end": 1565.032,
+    "text": "balance the four ways",
+    "speaker": "SPEAKER_00",
+    "translation": "平衡这四种方式"
+  },
+  {
+    "start": 1565.112,
+    "end": 1566.454,
+    "text": "that debt burdens come down.",
+    "speaker": "SPEAKER_00",
+    "translation": "来降低债务负担。"
+  },
+  {
+    "start": 1568.557,
+    "end": 1570.299,
+    "text": "The deflationary ways",
+    "speaker": "SPEAKER_00",
+    "translation": "通货紧缩的方式"
+  },
+  {
+    "start": 1570.399,
+    "end": 1571.44,
+    "text": "need to balance with",
+    "speaker": "SPEAKER_00",
+    "translation": "需要与"
+  },
+  {
+    "start": 1571.501,
+    "end": 1572.922,
+    "text": "the inflationary ways",
+    "speaker": "SPEAKER_00",
+    "translation": "通货膨胀的方式"
+  },
+  {
+    "start": 1572.963,
+    "end": 1574.785,
+    "text": "in order to maintain stability.",
+    "speaker": "SPEAKER_00",
+    "translation": "平衡，以保持稳定。"
+  },
+  {
+    "start": 1575.326,
+    "end": 1576.728,
+    "text": "If balanced correctly,",
+    "speaker": "SPEAKER_00",
+    "translation": "如果平衡得当，"
+  },
+  {
+    "start": 1576.768,
+    "end": 1577.849,
+    "text": "there can be a",
+    "speaker": "SPEAKER_00",
+    "translation": "就能实现"
+  },
+  {
+    "start": 1578.31,
+    "end": 1579.631,
+    "text": "beautiful deleveraging.",
+    "speaker": "SPEAKER_00",
+    "translation": "一次漂亮的去杠杆化。"
+  },
+  {
+    "start": 1581.554,
+    "end": 1583.857,
+    "text": "You see, a deleveraging could be ugly,",
+    "speaker": "SPEAKER_00",
+    "translation": "你看，去杠杆化可能很糟糕，"
+  },
+  {
+    "start": 1583.897,
+    "end": 1585.259,
+    "text": "or it can be beautiful.",
+    "speaker": "SPEAKER_00",
+    "translation": "也可能很漂亮。"
+  },
+  {
+    "start": 1586.721,
+    "end": 1588.984,
+    "text": "How can a deleveraging be beautiful?",
+    "speaker": "SPEAKER_00",
+    "translation": "去杠杆化怎么能是漂亮的呢？"
+  },
+  {
+    "start": 1590.044,
+    "end": 1591.606,
+    "text": "Even though a deleveraging",
+    "speaker": "SPEAKER_00",
+    "translation": "尽管去杠杆化"
+  },
+  {
+    "start": 1591.686,
+    "end": 1593.127,
+    "text": "is a difficult situation,",
+    "speaker": "SPEAKER_00",
+    "translation": "是一个艰难的局面，"
+  },
+  {
+    "start": 1593.567,
+    "end": 1594.749,
+    "text": "handling a difficult",
+    "speaker": "SPEAKER_00",
+    "translation": "但以最好的方式"
+  },
+  {
+    "start": 1594.809,
+    "end": 1595.97,
+    "text": "situation in the best",
+    "speaker": "SPEAKER_00",
+    "translation": "处理困境，"
+  },
+  {
+    "start": 1596.05,
+    "end": 1597.351,
+    "text": "possible way is beautiful,",
+    "speaker": "SPEAKER_00",
+    "translation": "依然是美好的，"
+  },
+  {
+    "start": 1597.992,
+    "end": 1599.113,
+    "text": "a lot more beautiful",
+    "speaker": "SPEAKER_00",
+    "translation": "远比"
+  },
+  {
+    "start": 1599.193,
+    "end": 1600.314,
+    "text": "than the debt-fueled,",
+    "speaker": "SPEAKER_00",
+    "translation": "债务驱动的、"
+  },
+  {
+    "start": 1600.554,
+    "end": 1602.136,
+    "text": "unbalanced excesses of",
+    "speaker": "SPEAKER_00",
+    "translation": "不平衡的过度"
+  },
+  {
+    "start": 1602.196,
+    "end": 1604.198,
+    "text": "the leveraging phase.",
+    "speaker": "SPEAKER_00",
+    "translation": "杠杆化阶段要美好得多。"
+  },
+  {
+    "start": 1604.218,
+    "end": 1605.78,
+    "text": "In a beautiful deleveraging,",
+    "speaker": "SPEAKER_00",
+    "translation": "在一次漂亮的去杠杆化中，"
+  },
+  {
+    "start": 1606.1,
+    "end": 1608.222,
+    "text": "debts decline relative to income,",
+    "speaker": "SPEAKER_00",
+    "translation": "债务相对于收入下降，"
+  },
+  {
+    "start": 1608.883,
+    "end": 1610.925,
+    "text": "real economic growth is positive,",
+    "speaker": "SPEAKER_00",
+    "translation": "实际经济增长为正，"
+  },
+  {
+    "start": 1611.445,
+    "end": 1613.347,
+    "text": "and inflation isn't a problem.",
+    "speaker": "SPEAKER_00",
+    "translation": "通胀也不是问题。"
+  },
+  {
+    "start": 1614.168,
+    "end": 1615.289,
+    "text": "It is achieved by",
+    "speaker": "SPEAKER_00",
+    "translation": "这是通过"
+  },
+  {
+    "start": 1615.389,
+    "end": 1617.351,
+    "text": "having the right balance.",
+    "speaker": "SPEAKER_00",
+    "translation": "保持正确平衡来实现的。"
+  },
+  {
+    "start": 1617.567,
+    "end": 1619.048,
+    "text": "The right balance requires",
+    "speaker": "SPEAKER_00",
+    "translation": "正确的平衡需要"
+  },
+  {
+    "start": 1619.068,
+    "end": 1620.27,
+    "text": "a certain mix of",
+    "speaker": "SPEAKER_00",
+    "translation": "综合运用"
+  },
+  {
+    "start": 1620.37,
+    "end": 1622.552,
+    "text": "cutting spending, reducing debt,",
+    "speaker": "SPEAKER_00",
+    "translation": "削减开支、减少债务、"
+  },
+  {
+    "start": 1623.052,
+    "end": 1624.113,
+    "text": "transferring wealth,",
+    "speaker": "SPEAKER_00",
+    "translation": "财富转移、"
+  },
+  {
+    "start": 1624.314,
+    "end": 1625.875,
+    "text": "and printing money so",
+    "speaker": "SPEAKER_00",
+    "translation": "和印钞，以便"
+  },
+  {
+    "start": 1625.915,
+    "end": 1626.916,
+    "text": "that economic and",
+    "speaker": "SPEAKER_00",
+    "translation": "经济和"
+  },
+  {
+    "start": 1627.016,
+    "end": 1629.038,
+    "text": "social stability can be maintained.",
+    "speaker": "SPEAKER_00",
+    "translation": "社会稳定得以维持。"
+  },
+  {
+    "start": 1630.62,
+    "end": 1632.061,
+    "text": "People ask if printing money",
+    "speaker": "SPEAKER_00",
+    "translation": "人们会问，印钞"
+  },
+  {
+    "start": 1632.101,
+    "end": 1633.322,
+    "text": "will raise inflation,",
+    "speaker": "SPEAKER_00",
+    "translation": "会不会导致通胀，"
+  },
+  {
+    "start": 1634.083,
+    "end": 1636.065,
+    "text": "It won't if it offsets falling credit.",
+    "speaker": "SPEAKER_00",
+    "translation": "如果能抵消信贷下降就不会。"
+  },
+  {
+    "start": 1636.886,
+    "end": 1638.688,
+    "text": "Remember, spending is what matters.",
+    "speaker": "SPEAKER_00",
+    "translation": "记住，支出才是最重要的。"
+  },
+  {
+    "start": 1639.649,
+    "end": 1640.73,
+    "text": "A dollar of spending",
+    "speaker": "SPEAKER_00",
+    "translation": "一美元的支出，"
+  },
+  {
+    "start": 1640.85,
+    "end": 1641.951,
+    "text": "paid for with money",
+    "speaker": "SPEAKER_00",
+    "translation": "用货币支付的，"
+  },
+  {
+    "start": 1641.991,
+    "end": 1643.092,
+    "text": "has the same effect",
+    "speaker": "SPEAKER_00",
+    "translation": "会产生同样的影响，"
+  },
+  {
+    "start": 1643.212,
+    "end": 1644.814,
+    "text": "on price as a dollar of spending",
+    "speaker": "SPEAKER_00",
+    "translation": "对价格而言，就像一美元的支出，"
+  },
+  {
+    "start": 1644.894,
+    "end": 1646.055,
+    "text": "paid for with credit.",
+    "speaker": "SPEAKER_00",
+    "translation": "用信贷支付的一样。"
+  },
+  {
+    "start": 1647.183,
+    "end": 1649.052,
+    "text": "By printing money, the central bank",
+    "speaker": "SPEAKER_00",
+    "translation": "通过印钞，央行"
+  },
+  {
+    "start": 1649.092,
+    "end": 1651.243,
+    "text": "can make up for the disappearance of credit",
+    "speaker": "SPEAKER_00",
+    "translation": "可以弥补信贷的消失，"
+  },
+  {
+    "start": 1651.383,
+    "end": 1653.413,
+    "text": "with an increase in the amount of money.",
+    "speaker": "SPEAKER_00",
+    "translation": "办法是增加货币量。"
+  },
+  {
+    "start": 1653.899,
+    "end": 1655.681,
+    "text": "In order to turn things around,",
+    "speaker": "SPEAKER_00",
+    "translation": "为了扭转局面，"
+  },
+  {
+    "start": 1655.761,
+    "end": 1657.263,
+    "text": "the central bank needs to",
+    "speaker": "SPEAKER_00",
+    "translation": "央行需要"
+  },
+  {
+    "start": 1657.423,
+    "end": 1659.365,
+    "text": "not only pump up income growth",
+    "speaker": "SPEAKER_00",
+    "translation": "不仅要刺激收入增长，"
+  },
+  {
+    "start": 1659.986,
+    "end": 1661.027,
+    "text": "but get the rate",
+    "speaker": "SPEAKER_00",
+    "translation": "还要让"
+  },
+  {
+    "start": 1661.067,
+    "end": 1662.389,
+    "text": "of income growth higher",
+    "speaker": "SPEAKER_00",
+    "translation": "收入增长率更高，"
+  },
+  {
+    "start": 1662.429,
+    "end": 1663.751,
+    "text": "than the rate of interest on",
+    "speaker": "SPEAKER_00",
+    "translation": "高于"
+  },
+  {
+    "start": 1663.791,
+    "end": 1665.653,
+    "text": "the accumulated debt.",
+    "speaker": "SPEAKER_00",
+    "translation": "累积债务的利率。"
+  },
+  {
+    "start": 1665.673,
+    "end": 1666.934,
+    "text": "So what do I mean by that?",
+    "speaker": "SPEAKER_00",
+    "translation": "我这话是什么意思？"
+  },
+  {
+    "start": 1667.535,
+    "end": 1668.937,
+    "text": "Basically, income",
+    "speaker": "SPEAKER_00",
+    "translation": "简单来说，收入"
+  },
+  {
+    "start": 1669.017,
+    "end": 1671.139,
+    "text": "needs to grow faster than debt grows.",
+    "speaker": "SPEAKER_00",
+    "translation": "需要比债务增长得更快。"
+  },
+  {
+    "start": 1671.5,
+    "end": 1673.202,
+    "text": "For example, let's assume",
+    "speaker": "SPEAKER_00",
+    "translation": "例如，我们假设"
+  },
+  {
+    "start": 1673.242,
+    "end": 1674.243,
+    "text": "that a country going",
+    "speaker": "SPEAKER_00",
+    "translation": "一个正在"
+  },
+  {
+    "start": 1674.303,
+    "end": 1675.344,
+    "text": "through a deleveraging",
+    "speaker": "SPEAKER_00",
+    "translation": "去杠杆化的国家，"
+  },
+  {
+    "start": 1675.404,
+    "end": 1676.626,
+    "text": "has a debt-to-income",
+    "speaker": "SPEAKER_00",
+    "translation": "其债务收入比"
+  },
+  {
+    "start": 1676.686,
+    "end": 1678.708,
+    "text": "ratio of 100%.",
+    "speaker": "SPEAKER_00",
+    "translation": "为100%。"
+  },
+  {
+    "start": 1678.688,
+    "end": 1680.21,
+    "text": "That means that the amount",
+    "speaker": "SPEAKER_00",
+    "translation": "这意味着，其债务总额"
+  },
+  {
+    "start": 1680.271,
+    "end": 1682.895,
+    "text": "of debt it has is the same as the amount",
+    "speaker": "SPEAKER_00",
+    "translation": "与全国一年创造的"
+  },
+  {
+    "start": 1682.975,
+    "end": 1685.278,
+    "text": "of income the entire country makes in a year.",
+    "speaker": "SPEAKER_00",
+    "translation": "收入总额相同。"
+  },
+  {
+    "start": 1686.22,
+    "end": 1688.724,
+    "text": "Now think about the interest rate on that debt.",
+    "speaker": "SPEAKER_00",
+    "translation": "现在，想想那笔债务的利率。"
+  },
+  {
+    "start": 1689.265,
+    "end": 1689.986,
+    "text": "Let's say it's 2%.",
+    "speaker": "SPEAKER_00",
+    "translation": "假设是2%。"
+  },
+  {
+    "start": 1690.327,
+    "end": 1691.328,
+    "text": "If",
+    "speaker": "SPEAKER_00",
+    "translation": "如果"
+  },
+  {
+    "start": 1691.448,
+    "end": 1692.55,
+    "text": "debt is growing at 2%,",
+    "speaker": "SPEAKER_00",
+    "translation": "债务以2%的速度增长，"
+  },
+  {
+    "start": 1693.111,
+    "end": 1694.533,
+    "text": "because of that interest rate",
+    "speaker": "SPEAKER_00",
+    "translation": "因为那个利率，"
+  },
+  {
+    "start": 1694.894,
+    "end": 1696.556,
+    "text": "and income is only growing",
+    "speaker": "SPEAKER_00",
+    "translation": "而收入只增长了"
+  },
+  {
+    "start": 1696.657,
+    "end": 1698.199,
+    "text": "at around 1%,",
+    "speaker": "SPEAKER_00",
+    "translation": "大约1%，"
+  },
+  {
+    "start": 1698.365,
+    "end": 1700.108,
+    "text": "you will never reduce the debt burden.",
+    "speaker": "SPEAKER_00",
+    "translation": "你就永远无法减轻债务负担。"
+  },
+  {
+    "start": 1700.669,
+    "end": 1702.412,
+    "text": "You need to print enough money",
+    "speaker": "SPEAKER_00",
+    "translation": "你需要印足够的钱，"
+  },
+  {
+    "start": 1702.532,
+    "end": 1704.175,
+    "text": "to get the rate of income growth",
+    "speaker": "SPEAKER_00",
+    "translation": "来让收入增长率"
+  },
+  {
+    "start": 1704.295,
+    "end": 1706.479,
+    "text": "above the rate of interest.",
+    "speaker": "SPEAKER_00",
+    "translation": "高于利率。"
+  },
+  {
+    "start": 1706.499,
+    "end": 1707.621,
+    "text": "However, printing money",
+    "speaker": "SPEAKER_00",
+    "translation": "然而，印钞"
+  },
+  {
+    "start": 1707.701,
+    "end": 1709.043,
+    "text": "could easily be abused",
+    "speaker": "SPEAKER_00",
+    "translation": "很容易被滥用，"
+  },
+  {
+    "start": 1709.123,
+    "end": 1710.666,
+    "text": "because it's so easy to do,",
+    "speaker": "SPEAKER_00",
+    "translation": "因为操作起来太容易，"
+  },
+  {
+    "start": 1710.766,
+    "end": 1711.828,
+    "text": "and people prefer it",
+    "speaker": "SPEAKER_00",
+    "translation": "而且人们更喜欢它"
+  },
+  {
+    "start": 1711.888,
+    "end": 1712.889,
+    "text": "to the alternatives.",
+    "speaker": "SPEAKER_00",
+    "translation": "而非其他替代方案。"
+  },
+  {
+    "start": 1713.45,
+    "end": 1714.672,
+    "text": "The key is to avoid",
+    "speaker": "SPEAKER_00",
+    "translation": "关键在于避免"
+  },
+  {
+    "start": 1714.773,
+    "end": 1716.135,
+    "text": "printing too much money",
+    "speaker": "SPEAKER_00",
+    "translation": "印钞过多，"
+  },
+  {
+    "start": 1716.415,
+    "end": 1719.02,
+    "text": "and causing unacceptably high inflation.",
+    "speaker": "SPEAKER_00",
+    "translation": "并造成无法接受的高通胀。"
+  },
+  {
+    "start": 1719.2,
+    "end": 1720.302,
+    "text": "The way Germany did",
+    "speaker": "SPEAKER_00",
+    "translation": "就像德国在"
+  },
+  {
+    "start": 1720.382,
+    "end": 1721.744,
+    "text": "during its deleveraging",
+    "speaker": "SPEAKER_00",
+    "translation": "1920年代去杠杆化时"
+  },
+  {
+    "start": 1721.784,
+    "end": 1723.427,
+    "text": "in the 1920s.",
+    "speaker": "SPEAKER_00",
+    "translation": "所做的那样。"
+  },
+  {
+    "start": 1723.407,
+    "end": 1725.17,
+    "text": "If policymakers achieve the",
+    "speaker": "SPEAKER_00",
+    "translation": "如果政策制定者能取得"
+  },
+  {
+    "start": 1725.23,
+    "end": 1726.331,
+    "text": "right balance,",
+    "speaker": "SPEAKER_00",
+    "translation": "正确的平衡，"
+  },
+  {
+    "start": 1726.351,
+    "end": 1728.194,
+    "text": "a deleveraging isn't so dramatic.",
+    "speaker": "SPEAKER_00",
+    "translation": "去杠杆化就不会那么剧烈。"
+  },
+  {
+    "start": 1728.935,
+    "end": 1731.159,
+    "text": "Growth is slow, but debt burdens go down.",
+    "speaker": "SPEAKER_00",
+    "translation": "增长缓慢，但债务负担会减轻。"
+  },
+  {
+    "start": 1731.84,
+    "end": 1734.423,
+    "text": "That's a beautiful deleveraging.",
+    "speaker": "SPEAKER_00",
+    "translation": "这是一次漂亮的去杠杆化。"
+  },
+  {
+    "start": 1735.786,
+    "end": 1737.308,
+    "text": "When incomes begin to rise,",
+    "speaker": "SPEAKER_00",
+    "translation": "当收入开始增长时，"
+  },
+  {
+    "start": 1737.428,
+    "end": 1739.711,
+    "text": "borrowers begin to appear more creditworthy.",
+    "speaker": "SPEAKER_00",
+    "translation": "借款人就会显得更有信誉。"
+  },
+  {
+    "start": 1740.232,
+    "end": 1741.875,
+    "text": "And when borrowers appear",
+    "speaker": "SPEAKER_00",
+    "translation": "当借款人显得"
+  },
+  {
+    "start": 1741.935,
+    "end": 1742.936,
+    "text": "more creditworthy,",
+    "speaker": "SPEAKER_00",
+    "translation": "更有信誉时，"
+  },
+  {
+    "start": 1743.517,
+    "end": 1744.799,
+    "text": "lenders begin to lend.",
+    "speaker": "SPEAKER_00",
+    "translation": "贷款人就开始放贷了。"
+  },
+  {
+    "start": 1744.899,
+    "end": 1746.141,
+    "text": "Money again,",
+    "speaker": "SPEAKER_00",
+    "translation": "资金再次流转，"
+  },
+  {
+    "start": 1746.442,
+    "end": 1748.385,
+    "text": "Debt burdens finally begin to fall.",
+    "speaker": "SPEAKER_00",
+    "translation": "债务负担终于开始下降。"
+  },
+  {
+    "start": 1748.845,
+    "end": 1750.968,
+    "text": "Able to borrow money people can spend more.",
+    "speaker": "SPEAKER_00",
+    "translation": "能够借到钱，人们就能消费更多。"
+  },
+  {
+    "start": 1751.649,
+    "end": 1753.031,
+    "text": "Eventually, the economy",
+    "speaker": "SPEAKER_00",
+    "translation": "最终，经济"
+  },
+  {
+    "start": 1753.071,
+    "end": 1754.193,
+    "text": "begins to grow again,",
+    "speaker": "SPEAKER_00",
+    "translation": "再次开始增长，"
+  },
+  {
+    "start": 1754.253,
+    "end": 1756.476,
+    "text": "leading to the reflation phase",
+    "speaker": "SPEAKER_00",
+    "translation": "从而进入长期债务周期的"
+  },
+  {
+    "start": 1756.556,
+    "end": 1757.898,
+    "text": "of the long-term debt cycle.",
+    "speaker": "SPEAKER_00",
+    "translation": "再通胀阶段。"
+  },
+  {
+    "start": 1759.019,
+    "end": 1761.362,
+    "text": "Though the deleveraging process can be horrible",
+    "speaker": "SPEAKER_00",
+    "translation": "虽然去杠杆化过程可能很糟糕"
+  },
+  {
+    "start": 1761.442,
+    "end": 1762.464,
+    "text": "if handled badly,",
+    "speaker": "SPEAKER_00",
+    "translation": "如果处理不当，"
+  },
+  {
+    "start": 1763.065,
+    "end": 1764.346,
+    "text": "if handled well, it",
+    "speaker": "SPEAKER_00",
+    "translation": "但如果处理得当，它"
+  },
+  {
+    "start": 1764.386,
+    "end": 1766.129,
+    "text": "will eventually fix the problem.",
+    "speaker": "SPEAKER_00",
+    "translation": "最终会解决问题。"
+  },
+  {
+    "start": 1767.491,
+    "end": 1768.993,
+    "text": "It takes roughly a decade",
+    "speaker": "SPEAKER_00",
+    "translation": "大约需要十年"
+  },
+  {
+    "start": 1769.033,
+    "end": 1770.915,
+    "text": "or more for debt burdens to fall",
+    "speaker": "SPEAKER_00",
+    "translation": "或更长时间，债务负担才能下降，"
+  },
+  {
+    "start": 1770.995,
+    "end": 1772.217,
+    "text": "and economic activity",
+    "speaker": "SPEAKER_00",
+    "translation": "经济活动才能"
+  },
+  {
+    "start": 1772.257,
+    "end": 1773.459,
+    "text": "to get back to normal.",
+    "speaker": "SPEAKER_00",
+    "translation": "恢复正常。"
+  },
+  {
+    "start": 1773.739,
+    "end": 1775.942,
+    "text": "Hence the term lost decade.",
+    "speaker": "SPEAKER_00",
+    "translation": "因此被称为“失去的十年”。"
+  },
+  {
+    "start": 1776.918,
+    "end": 1779.681,
+    "text": "In closing of course,",
+    "speaker": "SPEAKER_00",
+    "translation": "最后，当然，"
+  },
+  {
+    "start": 1779.761,
+    "end": 1780.783,
+    "text": "the economy is a little",
+    "speaker": "SPEAKER_00",
+    "translation": "经济比这个模板"
+  },
+  {
+    "start": 1780.803,
+    "end": 1781.864,
+    "text": "bit more complicated",
+    "speaker": "SPEAKER_00",
+    "translation": "所暗示的，"
+  },
+  {
+    "start": 1781.924,
+    "end": 1783.446,
+    "text": "than this template suggests.",
+    "speaker": "SPEAKER_00",
+    "translation": "要稍微复杂一些。"
+  },
+  {
+    "start": 1783.986,
+    "end": 1785.748,
+    "text": "However, laying the short-term",
+    "speaker": "SPEAKER_00",
+    "translation": "然而，将短期"
+  },
+  {
+    "start": 1785.788,
+    "end": 1786.99,
+    "text": "debt cycle on top",
+    "speaker": "SPEAKER_00",
+    "translation": "债务周期叠加"
+  },
+  {
+    "start": 1787.07,
+    "end": 1788.492,
+    "text": "of the long-term debt cycle",
+    "speaker": "SPEAKER_00",
+    "translation": "在长期债务周期之上，"
+  },
+  {
+    "start": 1788.992,
+    "end": 1790.935,
+    "text": "and then laying both of them on top of",
+    "speaker": "SPEAKER_00",
+    "translation": "再将两者叠加在"
+  },
+  {
+    "start": 1790.975,
+    "end": 1792.476,
+    "text": "the productivity growth line",
+    "speaker": "SPEAKER_00",
+    "translation": "生产率增长线上，"
+  },
+  {
+    "start": 1792.837,
+    "end": 1794.479,
+    "text": "gives a reasonably good template",
+    "speaker": "SPEAKER_00",
+    "translation": "就提供了一个相当不错的模板，"
+  },
+  {
+    "start": 1794.519,
+    "end": 1795.7,
+    "text": "for seeing where we've been,",
+    "speaker": "SPEAKER_00",
+    "translation": "可以帮助我们了解我们过去在哪里，"
+  },
+  {
+    "start": 1796.421,
+    "end": 1797.482,
+    "text": "where we are now, and",
+    "speaker": "SPEAKER_00",
+    "translation": "现在在哪里，以及"
+  },
+  {
+    "start": 1797.542,
+    "end": 1798.804,
+    "text": "where we're probably headed.",
+    "speaker": "SPEAKER_00",
+    "translation": "未来可能走向何方。"
+  },
+  {
+    "start": 1799.445,
+    "end": 1800.446,
+    "text": "So, in summary,",
+    "speaker": "SPEAKER_00",
+    "translation": "总结一下，"
+  },
+  {
+    "start": 1800.466,
+    "end": 1801.867,
+    "text": "there are three rules of thumb",
+    "speaker": "SPEAKER_00",
+    "translation": "有三条经验法则"
+  },
+  {
+    "start": 1801.907,
+    "end": 1804.09,
+    "text": "that I'd like you to take away from this.",
+    "speaker": "SPEAKER_00",
+    "translation": "我希望大家能记住。"
+  },
+  {
+    "start": 1804.137,
+    "end": 1806.503,
+    "text": "First, don't have debt",
+    "speaker": "SPEAKER_00",
+    "translation": "首先，不要让债务"
+  },
+  {
+    "start": 1806.623,
+    "end": 1808.067,
+    "text": "rise faster than income",
+    "speaker": "SPEAKER_00",
+    "translation": "增长快于收入，"
+  },
+  {
+    "start": 1808.668,
+    "end": 1809.871,
+    "text": "because your debt burdens",
+    "speaker": "SPEAKER_00",
+    "translation": "因为你的债务负担"
+  },
+  {
+    "start": 1809.912,
+    "end": 1811.335,
+    "text": "will eventually crush you.",
+    "speaker": "SPEAKER_00",
+    "translation": "最终会压垮你。"
+  },
+  {
+    "start": 1812.177,
+    "end": 1813.581,
+    "text": "Second, don't",
+    "speaker": "SPEAKER_00",
+    "translation": "其次，不要让"
+  },
+  {
+    "start": 1813.621,
+    "end": 1815.947,
+    "text": "have income rise faster than productivity",
+    "speaker": "SPEAKER_00",
+    "translation": "收入增长快于生产率，"
+  },
+  {
+    "start": 1816.448,
+    "end": 1817.611,
+    "text": "because you'll eventually",
+    "speaker": "SPEAKER_00",
+    "translation": "因为你最终会"
+  },
+  {
+    "start": 1817.691,
+    "end": 1819.095,
+    "text": "become uncompetitive.",
+    "speaker": "SPEAKER_00",
+    "translation": "失去竞争力。"
+  },
+  {
+    "start": 1819.796,
+    "end": 1821.395,
+    "text": "And third, Do",
+    "speaker": "SPEAKER_00",
+    "translation": "第三，务必"
+  },
+  {
+    "start": 1821.676,
+    "end": 1823.878,
+    "text": "all that you can to raise your productivity",
+    "speaker": "SPEAKER_00",
+    "translation": "尽你所能地提高生产率，"
+  },
+  {
+    "start": 1824.358,
+    "end": 1825.62,
+    "text": "because in the long run.",
+    "speaker": "SPEAKER_00",
+    "translation": "因为从长远来看。"
+  },
+  {
+    "start": 1825.76,
+    "end": 1827.061,
+    "text": "That's what matters most.",
+    "speaker": "SPEAKER_00",
+    "translation": "那才是最重要的。"
+  },
+  {
+    "start": 1827.702,
+    "end": 1829.464,
+    "text": "This is simple advice for you,",
+    "speaker": "SPEAKER_00",
+    "translation": "这对你来说是简单建议，"
+  },
+  {
+    "start": 1829.684,
+    "end": 1831.847,
+    "text": "and it's simple advice for policymakers.",
+    "speaker": "SPEAKER_00",
+    "translation": "对政策制定者也一样。"
+  },
+  {
+    "start": 1832.527,
+    "end": 1833.889,
+    "text": "You might be surprised,",
+    "speaker": "SPEAKER_00",
+    "translation": "你可能会感到惊讶，"
+  },
+  {
+    "start": 1834.409,
+    "end": 1835.431,
+    "text": "but most people,",
+    "speaker": "SPEAKER_00",
+    "translation": "但大多数人，"
+  },
+  {
+    "start": 1835.991,
+    "end": 1837.753,
+    "text": "including most policymakers,",
+    "speaker": "SPEAKER_00",
+    "translation": "包括大多数政策制定者，"
+  },
+  {
+    "start": 1837.833,
+    "end": 1839.335,
+    "text": "don't pay enough attention to this.",
+    "speaker": "SPEAKER_00",
+    "translation": "都没有足够重视这一点。"
+  },
+  {
+    "start": 1840.116,
+    "end": 1841.657,
+    "text": "This template has worked for me,",
+    "speaker": "SPEAKER_00",
+    "translation": "这个模板对我很管用，"
+  },
+  {
+    "start": 1842.098,
+    "end": 1843.459,
+    "text": "and I hope it will work for you.",
+    "speaker": "SPEAKER_00",
+    "translation": "我希望它对你也能管用。"
+  },
+  {
+    "start": 1844.42,
+    "end": 1844.961,
+    "text": "Thank you",
+    "speaker": "SPEAKER_00",
+    "translation": "谢谢。"
+  }
+]
